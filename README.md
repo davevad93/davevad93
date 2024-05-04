@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://github.com/davevad93/davevad93/blob/main/github-header-image.png"/>
+  <img  src="./github-header-image.png"/>
 </div>  
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davevad93&theme=onedark" alt="davevad93" /></a> </p>
@@ -19,6 +19,8 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=davevad93&show_icons=true&locale=en&theme=onedark" alt="davevad93" width=460 /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=davevad93&&theme=onedark" alt="davevad93" width=460 /></p>
+
+[![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **davevad93/davevad93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
