@@ -5,6 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davevad93&theme=onedark" alt="davevad93" /></a> </p>
 
 <div align="center">
+      <img src="https://komarev.com/ghpvc/?username=davevad93&color=brightgreen&style=for-the-badge"/>
       <p>🔭 I’m currently working on <a href="https://github.com/davevad93/rest-countries-django-app">rest-countries-django-app</a></p>
       <p>👯 I’m collaborating on <a href="https://github.com/aprendedeceropython">Comunidad Python Aprende desde Cero</a></p>
       <p>🌱 I’m currently learning <b>Java, Docker, IT Automation</b></p> 
