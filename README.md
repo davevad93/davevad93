@@ -1,6 +1,6 @@
 <div align="center">
   <img  src="./github-header-image.png"/>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davevad93&theme=onedark" alt="davevad93" /></a></p>
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davevad93&theme=onedark&rank=-C" alt="davevad93" /></a></p>
 </div>  
 
 <hr>
