@@ -40,6 +40,7 @@
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⚠️ Aperto problema [#1](https://github.com/anzit1/homes-app/issues/1) in [anzit1/homes-app](https://github.com/anzit1/homes-app/issues/1)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) su [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) su [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
@@ -48,7 +49,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Unito PR [#26](https://github.com/davevad93/rest-countries-django-app/pull/26) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/26)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-✔️ Unito PR [#27](https://github.com/davevad93/rest-countries-django-app/pull/27) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/27)
 <!--END_SECTION:activity-->
   
   </details>
