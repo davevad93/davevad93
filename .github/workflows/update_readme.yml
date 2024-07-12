@@ -1,0 +1,43 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 * * * *" 
+  push:
+    branches:
+      - main 
+  workflow_dispatch: 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1' 
+
+    - name: Install Dependencies
+      run: |
+        gem install octokit dotenv
+
+    - name: Run Update Script
+      run: |
+        ruby scripts/update_readme.rb
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
+        USERNAME: ${{ secrets.USERNAME }}
+
+    - name: Commit and Push changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Update README with recent activity"
+        commit_user_name: "github-actions[bot]"
+        commit_user_email: "github-actions[bot]@users.noreply.github.com"
+        branch: main
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
