@@ -19,8 +19,14 @@
     <summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Repositorios+Destacados:" alt="Typing SVG" /></a></summary>
     
   <!--START_SECTION:top_repos-->
-
-  <!--END_SECTION:top_repos-->
+| 📁 Repositorio | ⭐ Estrellas | 🔱 Bifurcaciones |
+| --- | --- | --- |
+| [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 10 | 2 |
+| [davevad93](https://github.com/davevad93/davevad93) | 7 | 4 |
+| [google-it-automation-final-project](https://github.com/davevad93/google-it-automation-final-project) | 4 | 2 |
+| [it-cert-automation-practice](https://github.com/davevad93/it-cert-automation-practice) | 4 | 2 |
+| [20_21_UT2-Actividades-3](https://github.com/davevad93/20_21_UT2-Actividades-3) | 3 | 0 |
+<!--END_SECTION:top_repos-->
   
   </details>
 
@@ -28,8 +34,22 @@
     <summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Actividad+Reciente+de+GitHub:" alt="Typing SVG" /></a></summary>
     
   <!--START_SECTION:activity-->
-
-  <!--END_SECTION:activity-->
+| Actividad Reciente |
+| --- |
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⚠️ Abierto propuesta [#1](https://github.com/anzit1/homes-app/issues/1) en [anzit1/homes-app](https://github.com/anzit1/homes-app/issues/1)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Fusionado PR [#28](https://github.com/davevad93/rest-countries-django-app/pull/28) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/28)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Fusionado PR [#26](https://github.com/davevad93/rest-countries-django-app/pull/26) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/26)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Fusionado PR [#27](https://github.com/davevad93/rest-countries-django-app/pull/27) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/27)
+<!--END_SECTION:activity-->
   
   </details>
 </div>
