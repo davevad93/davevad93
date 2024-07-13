@@ -37,7 +37,7 @@ def fetch_recent_activities(client, username, language, translations, limit = 15
       end
     when "ForkEvent"
       forked_url = "https://github.com/#{event.payload.forkee.full_name}"
-      translations[language][:forked] % { forked_repo: "[#{event.payload.forkee.full_name}](#{forked_url})", forked_url: forked_url, repo_name: event.repo.name, url: repo_url }
+      translations[language][:forked] % { forked_repo: "#{event.payload.forkee.full_name}", forked_url: forked_url, repo_name: event.repo.name, url: repo_url }
     when "WatchEvent"
       if event.payload.action == "started"
         translations[language][:starred] % { repo_name: event.repo.name, url: repo_url }
