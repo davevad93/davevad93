@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/learning-playground/commits) to [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
@@ -48,7 +49,6 @@
 ✔️ Merged PR [#28](https://github.com/davevad93/rest-countries-django-app/pull/28) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/28)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Merged PR [#26](https://github.com/davevad93/rest-countries-django-app/pull/26) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/26)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 <!--END_SECTION:activity-->
   
   </details>
