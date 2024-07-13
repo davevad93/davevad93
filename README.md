@@ -36,8 +36,9 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
-🔱 Forked [[davevad93/GestActives](https://github.com/davevad93/GestActives)](https://github.com/davevad93/GestActives) from [JorgeJGR/GestActives](https://github.com/JorgeJGR/GestActives)
+🔱 Forked [davevad93/GestActives](https://github.com/davevad93/GestActives) from [JorgeJGR/GestActives](https://github.com/JorgeJGR/GestActives)
 ⭐ Starred [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
@@ -50,7 +51,6 @@
 ⚠️ Opened issue [#1](https://github.com/anzit1/homes-app/issues/1) in [anzit1/homes-app](https://github.com/anzit1/homes-app/issues/1)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 <!--END_SECTION:activity-->
   
   </details>

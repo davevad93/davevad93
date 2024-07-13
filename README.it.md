@@ -36,8 +36,9 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
-🔱 Forkato [[davevad93/GestActives](https://github.com/davevad93/GestActives)](https://github.com/davevad93/GestActives) da [JorgeJGR/GestActives](https://github.com/JorgeJGR/GestActives)
+🔱 Forkato [davevad93/GestActives](https://github.com/davevad93/GestActives) da [JorgeJGR/GestActives](https://github.com/JorgeJGR/GestActives)
 ⭐ Aggiunto ai preferiti [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) su [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
@@ -50,7 +51,6 @@
 ⚠️ Aperto problema [#1](https://github.com/anzit1/homes-app/issues/1) in [anzit1/homes-app](https://github.com/anzit1/homes-app/issues/1)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) su [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) su [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 <!--END_SECTION:activity-->
   
   </details>

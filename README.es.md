@@ -36,8 +36,9 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
-🔱 Bifurcado [[davevad93/GestActives](https://github.com/davevad93/GestActives)](https://github.com/davevad93/GestActives) de [JorgeJGR/GestActives](https://github.com/JorgeJGR/GestActives)
+🔱 Bifurcado [davevad93/GestActives](https://github.com/davevad93/GestActives) de [JorgeJGR/GestActives](https://github.com/JorgeJGR/GestActives)
 ⭐ Añadido a favoritos [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
@@ -50,7 +51,6 @@
 ⚠️ Abierto propuesta [#1](https://github.com/anzit1/homes-app/issues/1) en [anzit1/homes-app](https://github.com/anzit1/homes-app/issues/1)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 <!--END_SECTION:activity-->
   
   </details>
