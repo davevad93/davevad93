@@ -50,7 +50,6 @@
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⚠️ Opened issue [#1](https://github.com/anzit1/homes-app/issues/1) in [anzit1/homes-app](https://github.com/anzit1/homes-app/issues/1)
 <!--END_SECTION:activity-->
   
   </details>
