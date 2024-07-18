@@ -66,9 +66,9 @@
 <hr>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davevad93&show_icons=true&layout=compact&langs_count=12&title_color=00FF2B&text_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark&locale=it" alt="davevad93" width=460 /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=davevad93&show_icons=true&layout=compact&langs_count=12&title_color=00FF2B&text_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark&locale=it" alt="davevad93" width=460 /></a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=davevad93&show_icons=true&title_color=00FF2B&text_color=00FF2B&icon_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark&locale=it" alt="davevad93" width=460 /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api?username=davevad93&show_icons=true&title_color=00FF2B&text_color=00FF2B&icon_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark&locale=it" alt="davevad93" width=460 /></a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=davevad93&&border=00FF2B&stroke=00FF2B&ring=00FF2B&fire=00FF2B&currStreakNum=00FF2B&sideNums=00FF2B&currStreakLabel=00FF2B&sideLabels=00FF2B&dates=00FF2B&theme=chartreuse-dark&locale=it" alt="davevad93" width=460 /></a>
 </div>
