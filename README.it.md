@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) su [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Spinto [3 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 🔱 Forkato [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats) da [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
@@ -48,7 +49,6 @@
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) su [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 <!--END_SECTION:activity-->
   
