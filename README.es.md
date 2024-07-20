@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⭐ Añadido a favoritos [withastro/astro](https://github.com/withastro/astro)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Empujado [3 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
 🔱 Bifurcado [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats) de [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
@@ -48,7 +49,6 @@
 ⭐ Añadido a favoritos [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/learning-playground/commits) a [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 <!--END_SECTION:activity-->
   
   </details>
