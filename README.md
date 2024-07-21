@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⭐ Starred [withastro/astro](https://github.com/withastro/astro)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Pushed [3 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
@@ -48,7 +49,6 @@
 🔱 Forked [davevad93/GestActives](https://github.com/davevad93/GestActives) from [JorgeJGR/GestActives](https://github.com/JorgeJGR/GestActives)
 ⭐ Starred [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 <!--END_SECTION:activity-->
   
   </details>
