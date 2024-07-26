@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⭐ Añadido a favoritos [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
@@ -48,7 +49,6 @@
 ⬆️ Empujado [13 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) a [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
-🔱 Bifurcado [davevad93/GestActives](https://github.com/davevad93/GestActives) de [JorgeJGR/GestActives](https://github.com/JorgeJGR/GestActives)
 <!--END_SECTION:activity-->
   
   </details>
