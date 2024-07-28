@@ -36,6 +36,10 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+😎 Opened PR [#1](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1)
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+🆕 Created new repository [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 🔱 Forked [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos) from [JorgeJGR/GestionDeActivos](https://github.com/JorgeJGR/GestionDeActivos)
 ⭐ Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
@@ -43,12 +47,6 @@
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⭐ Starred [withastro/astro](https://github.com/withastro/astro)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
-⬆️ Pushed [3 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
-🔱 Forked [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Pushed [13 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) to [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 <!--END_SECTION:activity-->
   
   </details>

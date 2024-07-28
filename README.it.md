@@ -36,6 +36,10 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+😎 Aperto PR [#1](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) su [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) su [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+🆕 Creato nuovo repository [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 🔱 Forkato [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos) da [JorgeJGR/GestionDeActivos](https://github.com/JorgeJGR/GestionDeActivos)
 ⭐ Aggiunto ai preferiti [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) su [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
@@ -43,12 +47,6 @@
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) su [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⭐ Aggiunto ai preferiti [withastro/astro](https://github.com/withastro/astro)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) su [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
-⬆️ Spinto [3 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
-🔱 Forkato [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats) da [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Spinto [13 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) su [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 <!--END_SECTION:activity-->
   
   </details>
