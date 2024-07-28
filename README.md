@@ -37,17 +37,17 @@
 | Recent Activity |
 | --- |
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+✔️ Merged PR [#5](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/5) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/5)
+😎 Opened PR [#5](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/5) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/5)
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+✔️ Merged PR [#4](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/4) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/4)
+😎 Opened PR [#4](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/4) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/4)
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 ✔️ Merged PR [#3](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3)
 😎 Opened PR [#3](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-✔️ Merged PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
-😎 Opened PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
-❌ Closed PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
-😎 Opened PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-✔️ Merged PR [#1](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 <!--END_SECTION:activity-->
   
   </details>

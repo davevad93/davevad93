@@ -37,17 +37,17 @@
 | Actividad Reciente |
 | --- |
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+✔️ Fusionado PR [#5](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/5) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/5)
+😎 Abierto PR [#5](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/5) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/5)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+✔️ Fusionado PR [#4](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/4) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/4)
+😎 Abierto PR [#4](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/4) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/4)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 ✔️ Fusionado PR [#3](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3)
 😎 Abierto PR [#3](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-✔️ Fusionado PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
-😎 Abierto PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
-❌ Cerrado PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
-😎 Abierto PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-✔️ Fusionado PR [#1](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 <!--END_SECTION:activity-->
   
   </details>
