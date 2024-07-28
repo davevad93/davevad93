@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+🔱 Forkato [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos) da [JorgeJGR/GestionDeActivos](https://github.com/JorgeJGR/GestionDeActivos)
 ⭐ Aggiunto ai preferiti [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) su [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) su [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
@@ -48,7 +49,6 @@
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Spinto [13 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) su [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 <!--END_SECTION:activity-->
   
   </details>

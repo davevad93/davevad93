@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+🔱 Forked [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos) from [JorgeJGR/GestionDeActivos](https://github.com/JorgeJGR/GestionDeActivos)
 ⭐ Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
@@ -48,7 +49,6 @@
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Pushed [13 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) to [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 <!--END_SECTION:activity-->
   
   </details>
