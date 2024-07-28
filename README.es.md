@@ -36,18 +36,18 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+✔️ Fusionado PR [#3](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3)
+😎 Abierto PR [#3](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+✔️ Fusionado PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
+😎 Abierto PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
+❌ Cerrado PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
+😎 Abierto PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 ✔️ Fusionado PR [#1](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-😎 Abierto PR [#1](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-🆕 Creado nuevo repositorio [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-🔱 Bifurcado [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos) de [JorgeJGR/GestionDeActivos](https://github.com/JorgeJGR/GestionDeActivos)
-⭐ Añadido a favoritos [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
-⭐ Añadido a favoritos [withastro/astro](https://github.com/withastro/astro)
 <!--END_SECTION:activity-->
   
   </details>

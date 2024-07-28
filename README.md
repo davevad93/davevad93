@@ -36,18 +36,18 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+✔️ Merged PR [#3](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3)
+😎 Opened PR [#3](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/3)
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+✔️ Merged PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
+😎 Opened PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
+❌ Closed PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
+😎 Opened PR [#2](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/2)
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 ✔️ Merged PR [#1](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-😎 Opened PR [#1](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-🆕 Created new repository [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-🔱 Forked [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos) from [JorgeJGR/GestionDeActivos](https://github.com/JorgeJGR/GestionDeActivos)
-⭐ Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) to [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
-⭐ Starred [withastro/astro](https://github.com/withastro/astro)
 <!--END_SECTION:activity-->
   
   </details>
