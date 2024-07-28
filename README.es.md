@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+✔️ Fusionado PR [#1](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 😎 Abierto PR [#1](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/1)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
@@ -46,7 +48,6 @@
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 ⭐ Añadido a favoritos [withastro/astro](https://github.com/withastro/astro)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-data-science/commits) a [davevad93/IBM-data-science](https://github.com/davevad93/IBM-data-science)
 <!--END_SECTION:activity-->
   
   </details>
