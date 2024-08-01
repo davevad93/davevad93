@@ -36,6 +36,11 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) su [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+✔️ Unito PR [#10](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) su [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
+😎 Aperto PR [#10](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) su [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) su [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 ✔️ Unito PR [#9](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/9) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/9)
 😎 Aperto PR [#9](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/9) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/9)
@@ -44,10 +49,6 @@
 ⭐ Aggiunto ai preferiti [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) su [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 ✔️ Unito PR [#8](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/8) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/8)
-😎 Aperto PR [#8](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/8) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/8)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) su [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) su [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-✔️ Unito PR [#7](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/7) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/7)
 <!--END_SECTION:activity-->
   
   </details>
