@@ -22,7 +22,7 @@
 | 📁 Repositorio | ⭐ Estrellas | 🔱 Bifurcaciones |
 | --- | --- | --- |
 | [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 11 | 2 |
-| [davevad93](https://github.com/davevad93/davevad93) | 8 | 4 |
+| [davevad93](https://github.com/davevad93/davevad93) | 8 | 8 |
 | [google-it-automation-final-project](https://github.com/davevad93/google-it-automation-final-project) | 5 | 2 |
 | [it-cert-automation-practice](https://github.com/davevad93/it-cert-automation-practice) | 5 | 2 |
 | [C-Sharp-DAM](https://github.com/davevad93/C-Sharp-DAM) | 4 | 0 |
