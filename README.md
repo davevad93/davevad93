@@ -48,7 +48,6 @@
 ⭐ Starred [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
 ⭐ Starred [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-✔️ Merged PR [#8](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/8) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/8)
 <!--END_SECTION:activity-->
   
   </details>
