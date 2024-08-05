@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+🔱 Forked [davevad93/drawdb](https://github.com/davevad93/drawdb) from [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 ✔️ Merged PR [#10](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
@@ -46,8 +47,6 @@
 😎 Opened PR [#9](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/9) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/9)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 ⭐ Starred [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
-⭐ Starred [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) to [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 <!--END_SECTION:activity-->
   
   </details>
