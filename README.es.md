@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 🔱 Bifurcado [davevad93/drawdb](https://github.com/davevad93/drawdb) de [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 ✔️ Fusionado PR [#10](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10)
@@ -45,8 +47,6 @@
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 ✔️ Fusionado PR [#9](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/9) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/9)
 😎 Abierto PR [#9](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/9) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/9)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-⭐ Añadido a favoritos [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
 <!--END_SECTION:activity-->
   
   </details>
