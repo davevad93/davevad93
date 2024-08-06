@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [3 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) su [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 😎 Aperto PR [#210](https://github.com/drawdb-io/drawdb/pull/210) in [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/pull/210)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
@@ -46,8 +47,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) su [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
 😎 Aperto PR [#10](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) su [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) su [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-✔️ Unito PR [#9](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/9) in [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/9)
 <!--END_SECTION:activity-->
   
   </details>
