@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+😎 Abierto PR [#1](https://github.com/JorgeJGR/GestionDeActivos/pull/1) en [JorgeJGR/GestionDeActivos](https://github.com/JorgeJGR/GestionDeActivos/pull/1)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Empujado [3 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Empujado [3 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 😎 Abierto PR [#210](https://github.com/drawdb-io/drawdb/pull/210) en [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/pull/210)
@@ -43,10 +46,6 @@
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 🔱 Bifurcado [davevad93/drawdb](https://github.com/davevad93/drawdb) de [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-✔️ Fusionado PR [#10](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/IBM-applied-data-science-capstone/commits) a [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone)
-😎 Abierto PR [#10](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10) en [davevad93/IBM-applied-data-science-capstone](https://github.com/davevad93/IBM-applied-data-science-capstone/pull/10)
 <!--END_SECTION:activity-->
   
   </details>
