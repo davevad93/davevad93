@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Fusionado PR [#29](https://github.com/davevad93/rest-countries-django-app/pull/29) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/29)
 😎 Abierto PR [#1](https://github.com/JorgeJGR/GestionDeActivos/pull/1) en [JorgeJGR/GestionDeActivos](https://github.com/JorgeJGR/GestionDeActivos/pull/1)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
@@ -45,7 +47,6 @@
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
-🔱 Bifurcado [davevad93/drawdb](https://github.com/davevad93/drawdb) de [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
 <!--END_SECTION:activity-->
   
   </details>
