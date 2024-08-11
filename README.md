@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/learning-playground/commits) to [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/learning-playground/commits) to [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) to [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Pushed [4 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
@@ -45,8 +47,6 @@
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) to [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Pushed [3 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Pushed [3 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) to [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
-😎 Opened PR [#210](https://github.com/drawdb-io/drawdb/pull/210) in [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/pull/210)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
 <!--END_SECTION:activity-->
   
   </details>

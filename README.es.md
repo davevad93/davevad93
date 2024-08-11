@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/learning-playground/commits) a [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/learning-playground/commits) a [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Empujado [4 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
@@ -45,8 +47,6 @@
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Empujado [3 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Empujado [3 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
-😎 Abierto PR [#210](https://github.com/drawdb-io/drawdb/pull/210) en [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/pull/210)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 <!--END_SECTION:activity-->
   
   </details>

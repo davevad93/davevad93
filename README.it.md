@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) su [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Spinto [4 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
@@ -45,8 +47,6 @@
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) su [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Spinto [3 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Spinto [3 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) su [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
-😎 Aperto PR [#210](https://github.com/drawdb-io/drawdb/pull/210) in [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/pull/210)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
 <!--END_SECTION:activity-->
   
   </details>
