@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⭐ Añadido a favoritos [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/learning-playground/commits) a [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/learning-playground/commits) a [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
@@ -46,7 +47,6 @@
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Empujado [3 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
-⬆️ Empujado [3 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 <!--END_SECTION:activity-->
   
   </details>
