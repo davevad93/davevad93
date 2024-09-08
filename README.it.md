@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⭐ Aggiunto ai preferiti [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 ⭐ Aggiunto ai preferiti [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 ⬆️ Spinto [6 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⭐ Aggiunto ai preferiti [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
@@ -46,7 +47,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Unito PR [#29](https://github.com/davevad93/rest-countries-django-app/pull/29) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/29)
 😎 Aperto PR [#1](https://github.com/JorgeJGR/GestionDeActivos/pull/1) in [JorgeJGR/GestionDeActivos](https://github.com/JorgeJGR/GestionDeActivos/pull/1)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) su [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) su [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 <!--END_SECTION:activity-->
   
