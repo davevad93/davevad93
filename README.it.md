@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [20 commit(s)](https://github.com/davevad93/github-readme-stats/commits) su [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⭐ Aggiunto ai preferiti [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 ⭐ Aggiunto ai preferiti [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 ⬆️ Spinto [6 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
