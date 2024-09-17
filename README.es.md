@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [4 commit(s)](https://github.com/davevad93/github-readme-stats/commits) a [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⬆️ Empujado [20 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Empujado [20 commit(s)](https://github.com/davevad93/github-readme-stats/commits) a [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⭐ Añadido a favoritos [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
@@ -49,7 +50,6 @@
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Fusionado PR [#29](https://github.com/davevad93/rest-countries-django-app/pull/29) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/29)
 😎 Abierto PR [#1](https://github.com/JorgeJGR/GestionDeActivos/pull/1) en [JorgeJGR/GestionDeActivos](https://github.com/JorgeJGR/GestionDeActivos/pull/1)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 <!--END_SECTION:activity-->
   
   </details>
