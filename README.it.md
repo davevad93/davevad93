@@ -36,20 +36,17 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
-⬆️ Spinto [4 commit(s)](https://github.com/davevad93/github-readme-stats/commits) su [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
-⬆️ Spinto [20 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
-⬆️ Spinto [20 commit(s)](https://github.com/davevad93/github-readme-stats/commits) su [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
-⭐ Aggiunto ai preferiti [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-⭐ Aggiunto ai preferiti [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
-⬆️ Spinto [6 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
-⭐ Aggiunto ai preferiti [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) su [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
-⬆️ Spinto [4 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-✔️ Unito PR [#29](https://github.com/davevad93/rest-countries-django-app/pull/29) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/29)
-😎 Aperto PR [#1](https://github.com/JorgeJGR/GestionDeActivos/pull/1) in [JorgeJGR/GestionDeActivos](https://github.com/JorgeJGR/GestionDeActivos/pull/1)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
+✔️ Unito PR [#15](https://github.com/davevad93/davevad93/pull/15) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/15)
+😎 Aperto PR [#15](https://github.com/davevad93/davevad93/pull/15) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/15)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
+✔️ Unito PR [#14](https://github.com/davevad93/davevad93/pull/14) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/14)
+😎 Aperto PR [#14](https://github.com/davevad93/davevad93/pull/14) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/14)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
+✔️ Unito PR [#13](https://github.com/davevad93/davevad93/pull/13) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/13)
+😎 Aperto PR [#13](https://github.com/davevad93/davevad93/pull/13) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/13)
 <!--END_SECTION:activity-->
   
   </details>

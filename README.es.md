@@ -36,20 +36,17 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
-⬆️ Empujado [4 commit(s)](https://github.com/davevad93/github-readme-stats/commits) a [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
-⬆️ Empujado [20 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
-⬆️ Empujado [20 commit(s)](https://github.com/davevad93/github-readme-stats/commits) a [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
-⭐ Añadido a favoritos [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-⭐ Añadido a favoritos [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
-⬆️ Empujado [6 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
-⭐ Añadido a favoritos [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/learning-playground/commits) a [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/learning-playground/commits) a [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
-⬆️ Empujado [4 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-✔️ Fusionado PR [#29](https://github.com/davevad93/rest-countries-django-app/pull/29) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/29)
-😎 Abierto PR [#1](https://github.com/JorgeJGR/GestionDeActivos/pull/1) en [JorgeJGR/GestionDeActivos](https://github.com/JorgeJGR/GestionDeActivos/pull/1)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+✔️ Fusionado PR [#15](https://github.com/davevad93/davevad93/pull/15) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/15)
+😎 Abierto PR [#15](https://github.com/davevad93/davevad93/pull/15) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/15)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+✔️ Fusionado PR [#14](https://github.com/davevad93/davevad93/pull/14) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/14)
+😎 Abierto PR [#14](https://github.com/davevad93/davevad93/pull/14) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/14)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+✔️ Fusionado PR [#13](https://github.com/davevad93/davevad93/pull/13) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/13)
+😎 Abierto PR [#13](https://github.com/davevad93/davevad93/pull/13) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/13)
 <!--END_SECTION:activity-->
   
   </details>
