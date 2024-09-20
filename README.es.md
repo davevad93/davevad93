@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/github-readme-stats/commits) a [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
+⬆️ Empujado [7 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ✔️ Fusionado PR [#15](https://github.com/davevad93/davevad93/pull/15) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/15)
 😎 Abierto PR [#15](https://github.com/davevad93/davevad93/pull/15) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/15)
@@ -46,7 +48,6 @@
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ✔️ Fusionado PR [#13](https://github.com/davevad93/davevad93/pull/13) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/13)
-😎 Abierto PR [#13](https://github.com/davevad93/davevad93/pull/13) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/13)
 <!--END_SECTION:activity-->
   
   </details>

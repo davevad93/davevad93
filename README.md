@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/github-readme-stats/commits) to [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
+⬆️ Pushed [7 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ✔️ Merged PR [#15](https://github.com/davevad93/davevad93/pull/15) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/15)
 😎 Opened PR [#15](https://github.com/davevad93/davevad93/pull/15) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/15)
@@ -46,7 +48,6 @@
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ✔️ Merged PR [#13](https://github.com/davevad93/davevad93/pull/13) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/13)
-😎 Opened PR [#13](https://github.com/davevad93/davevad93/pull/13) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/13)
 <!--END_SECTION:activity-->
   
   </details>
