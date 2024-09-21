@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) su [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
+⬆️ Spinto [3 commit(s)](https://github.com/davevad93/english/commits) su [davevad93/english](https://github.com/davevad93/english)
+⬆️ Spinto [5 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) su [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/github-readme-stats/commits) su [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⬆️ Spinto [7 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
@@ -45,9 +48,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ✔️ Unito PR [#14](https://github.com/davevad93/davevad93/pull/14) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/14)
 😎 Aperto PR [#14](https://github.com/davevad93/davevad93/pull/14) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/14)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
-✔️ Unito PR [#13](https://github.com/davevad93/davevad93/pull/13) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/13)
 <!--END_SECTION:activity-->
   
   </details>

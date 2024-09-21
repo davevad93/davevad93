@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) to [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
+⬆️ Pushed [3 commit(s)](https://github.com/davevad93/english/commits) to [davevad93/english](https://github.com/davevad93/english)
+⬆️ Pushed [5 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) to [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/github-readme-stats/commits) to [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⬆️ Pushed [7 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
@@ -45,9 +48,6 @@
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ✔️ Merged PR [#14](https://github.com/davevad93/davevad93/pull/14) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/14)
 😎 Opened PR [#14](https://github.com/davevad93/davevad93/pull/14) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/14)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
-✔️ Merged PR [#13](https://github.com/davevad93/davevad93/pull/13) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/13)
 <!--END_SECTION:activity-->
   
   </details>
