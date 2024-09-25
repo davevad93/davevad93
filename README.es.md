@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⭐ Añadido a favoritos [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) a [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
 ⬆️ Empujado [3 commit(s)](https://github.com/davevad93/english/commits) a [davevad93/english](https://github.com/davevad93/english)
 ⬆️ Empujado [5 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
@@ -47,7 +48,6 @@
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ✔️ Fusionado PR [#14](https://github.com/davevad93/davevad93/pull/14) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/14)
-😎 Abierto PR [#14](https://github.com/davevad93/davevad93/pull/14) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/14)
 <!--END_SECTION:activity-->
   
   </details>
