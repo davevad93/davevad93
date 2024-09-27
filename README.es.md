@@ -47,7 +47,6 @@
 ⭐ Añadido a favoritos [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) a [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
 ⬆️ Empujado [3 commit(s)](https://github.com/davevad93/english/commits) a [davevad93/english](https://github.com/davevad93/english)
-⬆️ Empujado [5 commit(s)](https://github.com/davevad93/GestionDeActivos/commits) a [davevad93/GestionDeActivos](https://github.com/davevad93/GestionDeActivos)
 <!--END_SECTION:activity-->
   
   </details>
