@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⭐ Añadido a favoritos [tw93/Pake](https://github.com/tw93/Pake)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/learning-playground/commits) a [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ✔️ Fusionado PR [#2](https://github.com/davevad93/learning-playground/pull/2) en [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/2)
 😎 Abierto PR [#2](https://github.com/davevad93/learning-playground/pull/2) en [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/2)
@@ -46,7 +47,6 @@
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/learning-playground/commits) a [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ⭐ Añadido a favoritos [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) a [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
-⬆️ Empujado [3 commit(s)](https://github.com/davevad93/english/commits) a [davevad93/english](https://github.com/davevad93/english)
 <!--END_SECTION:activity-->
   
   </details>
