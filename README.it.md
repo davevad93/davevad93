@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⭐ Aggiunto ai preferiti [exo-explore/exo](https://github.com/exo-explore/exo)
 ⭐ Aggiunto ai preferiti [tw93/Pake](https://github.com/tw93/Pake)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ✔️ Unito PR [#2](https://github.com/davevad93/learning-playground/pull/2) in [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/2)
@@ -46,7 +47,6 @@
 😎 Aperto PR [#1](https://github.com/davevad93/learning-playground/pull/1) in [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/1)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ⭐ Aggiunto ai preferiti [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) su [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
 <!--END_SECTION:activity-->
   
   </details>
