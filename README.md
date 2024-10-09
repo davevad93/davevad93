@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Merged PR [#30](https://github.com/davevad93/rest-countries-django-app/pull/30) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/30)
 ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
 ⭐ Starred [tw93/Pake](https://github.com/tw93/Pake)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/learning-playground/commits) to [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
@@ -45,8 +47,6 @@
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/learning-playground/commits) to [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ✔️ Merged PR [#1](https://github.com/davevad93/learning-playground/pull/1) in [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/1)
 😎 Opened PR [#1](https://github.com/davevad93/learning-playground/pull/1) in [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/1)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/learning-playground/commits) to [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
-⭐ Starred [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
 <!--END_SECTION:activity-->
   
   </details>

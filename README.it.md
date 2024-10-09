@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Unito PR [#30](https://github.com/davevad93/rest-countries-django-app/pull/30) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/30)
 ⭐ Aggiunto ai preferiti [exo-explore/exo](https://github.com/exo-explore/exo)
 ⭐ Aggiunto ai preferiti [tw93/Pake](https://github.com/tw93/Pake)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
@@ -45,8 +47,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ✔️ Unito PR [#1](https://github.com/davevad93/learning-playground/pull/1) in [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/1)
 😎 Aperto PR [#1](https://github.com/davevad93/learning-playground/pull/1) in [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/1)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
-⭐ Aggiunto ai preferiti [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
 <!--END_SECTION:activity-->
   
   </details>
