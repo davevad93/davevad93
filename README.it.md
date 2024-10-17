@@ -36,17 +36,16 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
+✔️ Unito PR [#17](https://github.com/davevad93/davevad93/pull/17) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/17)
+😎 Aperto PR [#17](https://github.com/davevad93/davevad93/pull/17) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/17)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Unito PR [#30](https://github.com/davevad93/rest-countries-django-app/pull/30) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/30)
 ⭐ Aggiunto ai preferiti [exo-explore/exo](https://github.com/exo-explore/exo)
 ⭐ Aggiunto ai preferiti [tw93/Pake](https://github.com/tw93/Pake)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 ✔️ Unito PR [#2](https://github.com/davevad93/learning-playground/pull/2) in [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/2)
-😎 Aperto PR [#2](https://github.com/davevad93/learning-playground/pull/2) in [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/2)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
-✔️ Unito PR [#1](https://github.com/davevad93/learning-playground/pull/1) in [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/1)
-😎 Aperto PR [#1](https://github.com/davevad93/learning-playground/pull/1) in [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/1)
 <!--END_SECTION:activity-->
   
   </details>
