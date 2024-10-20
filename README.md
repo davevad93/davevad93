@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [20 commit(s)](https://github.com/davevad93/github-readme-stats/commits) to [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ✔️ Merged PR [#17](https://github.com/davevad93/davevad93/pull/17) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/17)
 😎 Opened PR [#17](https://github.com/davevad93/davevad93/pull/17) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/17)
@@ -45,7 +46,6 @@
 ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
 ⭐ Starred [tw93/Pake](https://github.com/tw93/Pake)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/learning-playground/commits) to [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
-✔️ Merged PR [#2](https://github.com/davevad93/learning-playground/pull/2) in [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/2)
 <!--END_SECTION:activity-->
   
   </details>

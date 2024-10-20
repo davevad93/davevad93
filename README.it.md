@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [20 commit(s)](https://github.com/davevad93/github-readme-stats/commits) su [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ✔️ Unito PR [#17](https://github.com/davevad93/davevad93/pull/17) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/17)
 😎 Aperto PR [#17](https://github.com/davevad93/davevad93/pull/17) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/17)
@@ -45,7 +46,6 @@
 ⭐ Aggiunto ai preferiti [exo-explore/exo](https://github.com/exo-explore/exo)
 ⭐ Aggiunto ai preferiti [tw93/Pake](https://github.com/tw93/Pake)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/learning-playground/commits) su [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
-✔️ Unito PR [#2](https://github.com/davevad93/learning-playground/pull/2) in [davevad93/learning-playground](https://github.com/davevad93/learning-playground/pull/2)
 <!--END_SECTION:activity-->
   
   </details>
