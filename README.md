@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
+🔱 Forked [davevad93/github-profile-trophy](https://github.com/davevad93/github-profile-trophy) from [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 ⬆️ Pushed [20 commit(s)](https://github.com/davevad93/github-readme-stats/commits) to [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ✔️ Merged PR [#17](https://github.com/davevad93/davevad93/pull/17) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/17)
@@ -45,7 +47,6 @@
 ✔️ Merged PR [#30](https://github.com/davevad93/rest-countries-django-app/pull/30) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/30)
 ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
 ⭐ Starred [tw93/Pake](https://github.com/tw93/Pake)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/learning-playground/commits) to [davevad93/learning-playground](https://github.com/davevad93/learning-playground)
 <!--END_SECTION:activity-->
   
   </details>
