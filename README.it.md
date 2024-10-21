@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 🔱 Forkato [davevad93/github-profile-trophy](https://github.com/davevad93/github-profile-trophy) da [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 🔱 Forkato [davevad93/github-profile-trophy](https://github.com/davevad93/github-profile-trophy) da [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
@@ -46,7 +48,6 @@
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Unito PR [#30](https://github.com/davevad93/rest-countries-django-app/pull/30) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/30)
-⭐ Aggiunto ai preferiti [exo-explore/exo](https://github.com/exo-explore/exo)
 <!--END_SECTION:activity-->
   
   </details>
