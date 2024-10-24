@@ -46,7 +46,6 @@
 ✔️ Merged PR [#17](https://github.com/davevad93/davevad93/pull/17) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/17)
 😎 Opened PR [#17](https://github.com/davevad93/davevad93/pull/17) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/17)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 <!--END_SECTION:activity-->
   
   </details>

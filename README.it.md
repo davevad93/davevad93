@@ -46,7 +46,6 @@
 ✔️ Unito PR [#17](https://github.com/davevad93/davevad93/pull/17) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/17)
 😎 Aperto PR [#17](https://github.com/davevad93/davevad93/pull/17) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/17)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 <!--END_SECTION:activity-->
   
   </details>
