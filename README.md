@@ -6,7 +6,7 @@
   <a href=README.it.md><img src="assets/it.svg" width=190></a>
   <a href=README.es.md><img src="assets/es.svg" width=188></a>
   <hr>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-davevad93s-projects.vercel.app/?username=davevad93&theme=matrix&rank=-B" alt="davevad93"/></a></p>
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-davevad93s-projects.vercel.app/?username=davevad93&theme=matrix&rank=-B&column=-1" alt="davevad93"/></a></p>
 </div>  
 
 <hr>
