@@ -37,15 +37,14 @@
 | Attività Recente |
 | --- |
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Unito PR [#30](https://github.com/davevad93/pass-gen/pull/30) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/30)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#28](https://github.com/davevad93/pass-gen/pull/28) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/28)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#27](https://github.com/davevad93/pass-gen/pull/27) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/27)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
-🔱 Forkato [davevad93/github-profile-trophy](https://github.com/davevad93/github-profile-trophy) da [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) su [davevad93/davevad93](https://github.com/davevad93/davevad93)
 <!--END_SECTION:activity-->
   
