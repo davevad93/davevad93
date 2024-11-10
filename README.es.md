@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⭐ Añadido a favoritos [dockur/windows](https://github.com/dockur/windows)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#35](https://github.com/davevad93/pass-gen/pull/35) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/35)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -46,7 +47,6 @@
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#32](https://github.com/davevad93/pass-gen/pull/32) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/32)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#31](https://github.com/davevad93/pass-gen/pull/31) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/31)
 <!--END_SECTION:activity-->
   
   </details>
