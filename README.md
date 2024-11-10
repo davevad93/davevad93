@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [10 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#35](https://github.com/davevad93/pass-gen/pull/35) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/35)
@@ -46,7 +47,6 @@
 ❌ Closed PR [#29](https://github.com/davevad93/pass-gen/pull/29) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/29)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#32](https://github.com/davevad93/pass-gen/pull/32) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/32)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 <!--END_SECTION:activity-->
   
   </details>
