@@ -21,7 +21,7 @@
   <!--START_SECTION:top_repos-->
 | 📁 Repository | ⭐ Stelle | 🔱 Forks |
 | --- | --- | --- |
-| [davevad93](https://github.com/davevad93/davevad93) | 18 | 13 |
+| [davevad93](https://github.com/davevad93/davevad93) | 19 | 13 |
 | [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 14 | 2 |
 | [C-Sharp-DAM](https://github.com/davevad93/C-Sharp-DAM) | 6 | 1 |
 | [google-it-automation-final-project](https://github.com/davevad93/google-it-automation-final-project) | 6 | 2 |
@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Unito PR [#36](https://github.com/davevad93/pass-gen/pull/36) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/36)
 ⬆️ Spinto [10 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⭐ Aggiunto ai preferiti [dockur/windows](https://github.com/dockur/windows)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -45,8 +47,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#33](https://github.com/davevad93/pass-gen/pull/33) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/33)
 ❌ Chiuso PR [#29](https://github.com/davevad93/pass-gen/pull/29) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/29)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#32](https://github.com/davevad93/pass-gen/pull/32) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/32)
 <!--END_SECTION:activity-->
   
   </details>
