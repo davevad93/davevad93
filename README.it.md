@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [10 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) su [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
 ⬆️ Spinto [10 commit(s)](https://github.com/davevad93/github-readme-stats/commits) su [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#36](https://github.com/davevad93/pass-gen/pull/36) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/36)
