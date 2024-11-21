@@ -36,6 +36,10 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Merged PR [#38](https://github.com/davevad93/pass-gen/pull/38) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/38)
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Merged PR [#37](https://github.com/davevad93/pass-gen/pull/37) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/37)
 ⬆️ Pushed [10 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) to [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
 ⬆️ Pushed [10 commit(s)](https://github.com/davevad93/github-readme-stats/commits) to [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -44,10 +48,6 @@
 ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#35](https://github.com/davevad93/pass-gen/pull/35) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/35)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Merged PR [#34](https://github.com/davevad93/pass-gen/pull/34) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/34)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Merged PR [#33](https://github.com/davevad93/pass-gen/pull/33) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/33)
 <!--END_SECTION:activity-->
   
   </details>

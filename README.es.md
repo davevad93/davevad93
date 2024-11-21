@@ -36,6 +36,10 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Fusionado PR [#38](https://github.com/davevad93/pass-gen/pull/38) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/38)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Fusionado PR [#37](https://github.com/davevad93/pass-gen/pull/37) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/37)
 ⬆️ Empujado [10 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) a [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
 ⬆️ Empujado [10 commit(s)](https://github.com/davevad93/github-readme-stats/commits) a [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -44,10 +48,6 @@
 ⭐ Añadido a favoritos [dockur/windows](https://github.com/dockur/windows)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#35](https://github.com/davevad93/pass-gen/pull/35) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/35)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#34](https://github.com/davevad93/pass-gen/pull/34) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/34)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#33](https://github.com/davevad93/pass-gen/pull/33) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/33)
 <!--END_SECTION:activity-->
   
   </details>

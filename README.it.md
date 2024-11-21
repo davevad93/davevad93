@@ -36,6 +36,10 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Unito PR [#38](https://github.com/davevad93/pass-gen/pull/38) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/38)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Unito PR [#37](https://github.com/davevad93/pass-gen/pull/37) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/37)
 ⬆️ Spinto [10 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) su [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
 ⬆️ Spinto [10 commit(s)](https://github.com/davevad93/github-readme-stats/commits) su [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -44,10 +48,6 @@
 ⭐ Aggiunto ai preferiti [dockur/windows](https://github.com/dockur/windows)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#35](https://github.com/davevad93/pass-gen/pull/35) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/35)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#34](https://github.com/davevad93/pass-gen/pull/34) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/34)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#33](https://github.com/davevad93/pass-gen/pull/33) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/33)
 <!--END_SECTION:activity-->
   
   </details>
