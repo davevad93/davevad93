@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+✔️ Unito PR [#39](https://github.com/davevad93/pass-gen/pull/39) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/39)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#38](https://github.com/davevad93/pass-gen/pull/38) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/38)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -45,9 +47,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#36](https://github.com/davevad93/pass-gen/pull/36) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/36)
 ⬆️ Spinto [10 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
-⭐ Aggiunto ai preferiti [dockur/windows](https://github.com/dockur/windows)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#35](https://github.com/davevad93/pass-gen/pull/35) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/35)
 <!--END_SECTION:activity-->
   
   </details>

@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+✔️ Fusionado PR [#39](https://github.com/davevad93/pass-gen/pull/39) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/39)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#38](https://github.com/davevad93/pass-gen/pull/38) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/38)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -45,9 +47,6 @@
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#36](https://github.com/davevad93/pass-gen/pull/36) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/36)
 ⬆️ Empujado [10 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
-⭐ Añadido a favoritos [dockur/windows](https://github.com/dockur/windows)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#35](https://github.com/davevad93/pass-gen/pull/35) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/35)
 <!--END_SECTION:activity-->
   
   </details>
