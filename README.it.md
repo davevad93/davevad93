@@ -36,6 +36,10 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [0 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#40](https://github.com/davevad93/pass-gen/pull/40) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/40)
 ⬆️ Spinto [4 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
@@ -44,9 +48,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#38](https://github.com/davevad93/pass-gen/pull/38) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/38)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#37](https://github.com/davevad93/pass-gen/pull/37) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/37)
-⬆️ Spinto [10 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) su [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
-⬆️ Spinto [10 commit(s)](https://github.com/davevad93/github-readme-stats/commits) su [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 <!--END_SECTION:activity-->
   
   </details>
