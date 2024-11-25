@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Fusionado PR [#40](https://github.com/davevad93/pass-gen/pull/40) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/40)
 ⬆️ Empujado [4 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ✔️ Fusionado PR [#39](https://github.com/davevad93/pass-gen/pull/39) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/39)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -45,8 +47,6 @@
 ✔️ Fusionado PR [#37](https://github.com/davevad93/pass-gen/pull/37) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/37)
 ⬆️ Empujado [10 commit(s)](https://github.com/davevad93/django-markdown-editor/commits) a [davevad93/django-markdown-editor](https://github.com/davevad93/django-markdown-editor)
 ⬆️ Empujado [10 commit(s)](https://github.com/davevad93/github-readme-stats/commits) a [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#36](https://github.com/davevad93/pass-gen/pull/36) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/36)
 <!--END_SECTION:activity-->
   
   </details>
