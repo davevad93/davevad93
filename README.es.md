@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Fusionado PR [#42](https://github.com/davevad93/pass-gen/pull/42) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/42)
 ⭐ Añadido a favoritos [bddicken/languages](https://github.com/bddicken/languages)
 🔱 Bifurcado [davevad93/languages](https://github.com/davevad93/languages) de [bddicken/languages](https://github.com/bddicken/languages)
 ⬆️ Empujado [0 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -47,8 +49,6 @@
 ⬆️ Empujado [4 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ✔️ Fusionado PR [#39](https://github.com/davevad93/pass-gen/pull/39) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/39)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#38](https://github.com/davevad93/pass-gen/pull/38) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/38)
 <!--END_SECTION:activity-->
   
   </details>
