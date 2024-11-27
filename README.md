@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⭐ Starred [bddicken/languages](https://github.com/bddicken/languages)
 🔱 Forked [davevad93/languages](https://github.com/davevad93/languages) from [bddicken/languages](https://github.com/bddicken/languages)
 ⬆️ Pushed [0 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)

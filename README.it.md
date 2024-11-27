@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⭐ Aggiunto ai preferiti [bddicken/languages](https://github.com/bddicken/languages)
 🔱 Forkato [davevad93/languages](https://github.com/davevad93/languages) da [bddicken/languages](https://github.com/bddicken/languages)
 ⬆️ Spinto [0 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
