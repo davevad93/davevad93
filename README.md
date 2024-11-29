@@ -37,6 +37,9 @@
 | Recent Activity |
 | --- |
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#42](https://github.com/davevad93/pass-gen/pull/42) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/42)
 ⭐ Starred [bddicken/languages](https://github.com/bddicken/languages)
@@ -47,8 +50,6 @@
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#40](https://github.com/davevad93/pass-gen/pull/40) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/40)
-⬆️ Pushed [4 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
-✔️ Merged PR [#39](https://github.com/davevad93/pass-gen/pull/39) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/39)
 <!--END_SECTION:activity-->
   
   </details>
