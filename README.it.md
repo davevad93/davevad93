@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#42](https://github.com/davevad93/pass-gen/pull/42) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/42)
 ⭐ Aggiunto ai preferiti [bddicken/languages](https://github.com/bddicken/languages)
@@ -48,7 +49,6 @@
 ✔️ Unito PR [#40](https://github.com/davevad93/pass-gen/pull/40) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/40)
 ⬆️ Spinto [4 commit(s)](https://github.com/davevad93/drawdb/commits) su [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ✔️ Unito PR [#39](https://github.com/davevad93/pass-gen/pull/39) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/39)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) su [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 <!--END_SECTION:activity-->
   
   </details>
