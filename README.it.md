@@ -36,14 +36,15 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [3 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Unito PR [#32](https://github.com/davevad93/rest-countries-django-app/pull/32) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/32)
+😎 Aperto PR [#32](https://github.com/davevad93/rest-countries-django-app/pull/32) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/32)
+⭐ Aggiunto ai preferiti [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ⬆️ Spinto [6 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Unito PR [#31](https://github.com/davevad93/rest-countries-django-app/pull/31) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/31)
 😎 Aperto PR [#31](https://github.com/davevad93/rest-countries-django-app/pull/31) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/31)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) su [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
