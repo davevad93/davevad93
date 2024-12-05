@@ -27,7 +27,7 @@ spanish_repos = fetch_top_repositories(client, USERNAME, :es, TRANSLATIONS)
 followers_table = generate_followers_table(client, USERNAME)
 
 # Update README content
-def update_readme(filename, activities, top_repos, language, translations)
+def update_readme(filename, activities, top_repos, followers, language, translations)
   readme = File.read(filename)
   activity_header = translations[language][:recent_activity]
   repo_header = translations[language][:repo_name]
