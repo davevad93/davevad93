@@ -38,6 +38,7 @@
 | --- |
 ⬆️ Pushed [3 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Merged PR [#32](https://github.com/davevad93/rest-countries-django-app/pull/32) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/32)
+🔍 Reviewed PR [#32](https://github.com/davevad93/rest-countries-django-app/pull/32) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/32)
 😎 Opened PR [#32](https://github.com/davevad93/rest-countries-django-app/pull/32) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/32)
 ⭐ Starred [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
@@ -75,6 +76,109 @@
 <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Top+followers%3A" alt="Typing SVG"/></a>
 <!--START_SECTION:followers-->
+<table>
+  <tr><td align="center">
+  <a href="https://github.com/wcervini">
+    <img src="https://avatars.githubusercontent.com/u/51060" width="75px" alt="wcervini" />
+    <br />
+    <sub>wcervini</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/diegovalemoreno">
+    <img src="https://avatars.githubusercontent.com/u/15755827" width="75px" alt="diegovalemoreno" />
+    <br />
+    <sub>diegovalemoreno</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/andrejmoltok">
+    <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="andrejmoltok" />
+    <br />
+    <sub>andrejmoltok</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/Abimomin">
+    <img src="https://avatars.githubusercontent.com/u/22491475" width="75px" alt="Abimomin" />
+    <br />
+    <sub>Abimomin</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/Vidyagaddy">
+    <img src="https://avatars.githubusercontent.com/u/31290797" width="75px" alt="Vidyagaddy" />
+    <br />
+    <sub>Vidyagaddy</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/jorge-fuentes-94">
+    <img src="https://avatars.githubusercontent.com/u/33938341" width="75px" alt="jorge-fuentes-94" />
+    <br />
+    <sub>jorge-fuentes-94</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/Ehab98">
+    <img src="https://avatars.githubusercontent.com/u/35175000" width="75px" alt="Ehab98" />
+    <br />
+    <sub>Ehab98</sub>
+  </a>
+</td>
+</tr>
+<tr><td align="center">
+  <a href="https://github.com/chuclocbg">
+    <img src="https://avatars.githubusercontent.com/u/35459730" width="75px" alt="chuclocbg" />
+    <br />
+    <sub>chuclocbg</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/waynezo">
+    <img src="https://avatars.githubusercontent.com/u/37328568" width="75px" alt="waynezo" />
+    <br />
+    <sub>waynezo</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/fefemama585">
+    <img src="https://avatars.githubusercontent.com/u/38196806" width="75px" alt="fefemama585" />
+    <br />
+    <sub>fefemama585</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/HenriqueRicardoFigueira">
+    <img src="https://avatars.githubusercontent.com/u/39686167" width="75px" alt="HenriqueRicardoFigueira" />
+    <br />
+    <sub>HenriqueRicardoFigueira</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/bjcresswell">
+    <img src="https://avatars.githubusercontent.com/u/42128027" width="75px" alt="bjcresswell" />
+    <br />
+    <sub>bjcresswell</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/Vacanne">
+    <img src="https://avatars.githubusercontent.com/u/42899374" width="75px" alt="Vacanne" />
+    <br />
+    <sub>Vacanne</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/standardgalactic">
+    <img src="https://avatars.githubusercontent.com/u/43516554" width="75px" alt="standardgalactic" />
+    <br />
+    <sub>standardgalactic</sub>
+  </a>
+</td>
+</tr>
+</table>
+
 <!--END_SECTION:followers-->
 
 <!--

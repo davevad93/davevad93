@@ -38,6 +38,7 @@
 | --- |
 ⬆️ Empujado [3 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Fusionado PR [#32](https://github.com/davevad93/rest-countries-django-app/pull/32) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/32)
+🔍 Revisado PR [#32](https://github.com/davevad93/rest-countries-django-app/pull/32) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/32)
 😎 Abierto PR [#32](https://github.com/davevad93/rest-countries-django-app/pull/32) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/32)
 ⭐ Añadido a favoritos [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
