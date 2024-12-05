@@ -46,6 +46,16 @@ def fetch_recent_activities(client, username, language, translations, limit = 15
       if event.payload.action == "added"
         translations[language][:became_collaborator] % { repo_name: event.repo.name, url: repo_url }
       end
+    when "PullRequestReviewEvent"
+      pr_url = event.payload.pull_request.html_url
+      translations[language][:reviewed_pr] % { number: "[##{event.payload.pull_request.number}](#{pr_url})", repo_name: event.repo.name, url: pr_url }
+    when "DiscussionEvent"
+      if event.payload.action == "answered"
+        if event.payload.respond_to?(:discussion) && event.payload.discussion
+          discussion_url = event.payload.discussion.html_url
+          translations[language][:answered_discussion] % { discussion_title: "[#{event.payload.discussion.title}](#{discussion_url})", repo_name: event.repo.name, url: discussion_url }
+        end
+      end
     else
       nil
     end
