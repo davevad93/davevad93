@@ -15,7 +15,9 @@
     "created_repo": "🆕 Created new repository [%{repo_name}](%{url})",
     "forked": "🔱 Forked [%{forked_repo}](%{forked_url}) from [%{repo_name}](%{url})",
     "starred": "⭐ Starred [%{repo_name}](%{url})",
-    "became_collaborator": "👯 Became collaborator on [%{repo_name}](%{url})"
+    "became_collaborator": "👯 Became collaborator on [%{repo_name}](%{url})",
+    "reviewed_pr": "🔍 Reviewed PR %{number} in [%{repo_name}](%{url})",
+    "answered_discussion": "📖 Answered discussion '%{discussion_title}' in [%{repo_name}](%{url})"
   },
   "it": {
     "repo_name": "📁 Repository",
@@ -29,11 +31,13 @@
     "closed_issue": "🔑 Chiuso problema %{number} in [%{repo_name}](%{url})",
     "reopened_issue": "🔓 Riaperto problema %{number} in [%{repo_name}](%{url})",
     "commented": "📣 Commentato il problema %{number} in [%{repo_name}](%{url})",
-    "pushed": "⬆️ Spinto %{commits} su [%{repo_name}](%{url})",
+    "pushed": "⬆️ Spinto %{commits} in [%{repo_name}](%{url})",
     "created_repo": "🆕 Creato nuovo repository [%{repo_name}](%{url})",
     "forked": "🔱 Forkato [%{forked_repo}](%{forked_url}) da [%{repo_name}](%{url})",
     "starred": "⭐ Aggiunto ai preferiti [%{repo_name}](%{url})",
-    "became_collaborator": "👯 Diventato collaboratore su [%{repo_name}](%{url})"
+    "became_collaborator": "👯 Diventato collaboratore in [%{repo_name}](%{url})",
+    "reviewed_pr": "🔍 Esaminato PR %{number} in [%{repo_name}](%{url})",
+    "answered_discussion": "📖 Risposto alla discussione '%{discussion_title}' in [%{repo_name}](%{url})"
   },
   "es": {
     "repo_name": "📁 Repositorio",
@@ -51,6 +55,8 @@
     "created_repo": "🆕 Creado nuevo repositorio [%{repo_name}](%{url})",
     "forked": "🔱 Bifurcado [%{forked_repo}](%{forked_url}) de [%{repo_name}](%{url})",
     "starred": "⭐ Añadido a favoritos [%{repo_name}](%{url})",
-    "became_collaborator": "👯 Se convirtió en colaborador en [%{repo_name}](%{url})"
+    "became_collaborator": "👯 Se convirtió en colaborador en [%{repo_name}](%{url})",
+    "reviewed_pr": "🔍 Revisado PR %{number} en [%{repo_name}](%{url})",
+    "answered_discussion": "📖 Respondido a la discusión '%{discussion_title}' en [%{repo_name}](%{url})"    
   }
 }
