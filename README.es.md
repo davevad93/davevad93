@@ -36,18 +36,18 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Empujado [6 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+✔️ Fusionado PR [#18](https://github.com/davevad93/davevad93/pull/18) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/18)
+🔍 Revisado PR [#18](https://github.com/davevad93/davevad93/pull/18) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/18)
+😎 Abierto PR [#18](https://github.com/davevad93/davevad93/pull/18) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/18)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Empujado [3 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Fusionado PR [#32](https://github.com/davevad93/rest-countries-django-app/pull/32) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/32)
-🔍 Revisado PR [#32](https://github.com/davevad93/rest-countries-django-app/pull/32) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/32)
-😎 Abierto PR [#32](https://github.com/davevad93/rest-countries-django-app/pull/32) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/32)
-⭐ Añadido a favoritos [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-⬆️ Empujado [6 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-✔️ Fusionado PR [#31](https://github.com/davevad93/rest-countries-django-app/pull/31) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/31)
-😎 Abierto PR [#31](https://github.com/davevad93/rest-countries-django-app/pull/31) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/31)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 <!--END_SECTION:activity-->
   
   </details>
