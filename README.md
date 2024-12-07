@@ -131,6 +131,13 @@
 </td>
 </tr>
 <tr><td align="center">
+  <a href="https://github.com/PreciousDeanna">
+    <img src="https://avatars.githubusercontent.com/u/35430361" width="75px" alt="PreciousDeanna" />
+    <br />
+    <sub>PreciousDeanna</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/chuclocbg">
     <img src="https://avatars.githubusercontent.com/u/35459730" width="75px" alt="chuclocbg" />
     <br />
@@ -170,13 +177,6 @@
     <img src="https://avatars.githubusercontent.com/u/42899374" width="75px" alt="Vacanne" />
     <br />
     <sub>Vacanne</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/standardgalactic">
-    <img src="https://avatars.githubusercontent.com/u/43516554" width="75px" alt="standardgalactic" />
-    <br />
-    <sub>standardgalactic</sub>
   </a>
 </td>
 </tr>
