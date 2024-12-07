@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Merged PR [#33](https://github.com/davevad93/rest-countries-django-app/pull/33) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/33)
+🔍 Reviewed PR [#33](https://github.com/davevad93/rest-countries-django-app/pull/33) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/33)
 ✔️ Merged PR [#45](https://github.com/davevad93/pass-gen/pull/45) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/45)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 🔍 Reviewed PR [#45](https://github.com/davevad93/pass-gen/pull/45) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/45)
@@ -44,7 +47,6 @@
 ✔️ Merged PR [#18](https://github.com/davevad93/davevad93/pull/18) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/18)
 🔍 Reviewed PR [#18](https://github.com/davevad93/davevad93/pull/18) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/18)
 😎 Opened PR [#18](https://github.com/davevad93/davevad93/pull/18) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/18)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
