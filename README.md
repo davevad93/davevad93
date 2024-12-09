@@ -88,6 +88,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/XiaomingX">
+    <img src="https://avatars.githubusercontent.com/u/5387930" width="75px" alt="XiaomingX" />
+    <br />
+    <sub>XiaomingX</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/diegovalemoreno">
     <img src="https://avatars.githubusercontent.com/u/15755827" width="75px" alt="diegovalemoreno" />
     <br />
@@ -122,15 +129,15 @@
     <sub>jorge-fuentes-94</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/Ehab98">
     <img src="https://avatars.githubusercontent.com/u/35175000" width="75px" alt="Ehab98" />
     <br />
     <sub>Ehab98</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/PreciousDeanna">
     <img src="https://avatars.githubusercontent.com/u/35430361" width="75px" alt="PreciousDeanna" />
     <br />
@@ -170,13 +177,6 @@
     <img src="https://avatars.githubusercontent.com/u/42128027" width="75px" alt="bjcresswell" />
     <br />
     <sub>bjcresswell</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/Vacanne">
-    <img src="https://avatars.githubusercontent.com/u/42899374" width="75px" alt="Vacanne" />
-    <br />
-    <sub>Vacanne</sub>
   </a>
 </td>
 </tr>
