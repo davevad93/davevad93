@@ -37,6 +37,12 @@
 | Attività Recente |
 | --- |
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Unito PR [#50](https://github.com/davevad93/pass-gen/pull/50) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/50)
+🔍 Esaminato PR [#50](https://github.com/davevad93/pass-gen/pull/50) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/50)
+✔️ Unito PR [#49](https://github.com/davevad93/pass-gen/pull/49) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/49)
+🔍 Esaminato PR [#49](https://github.com/davevad93/pass-gen/pull/49) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/49)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#48](https://github.com/davevad93/pass-gen/pull/48) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/48)
 🔍 Esaminato PR [#48](https://github.com/davevad93/pass-gen/pull/48) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/48)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
@@ -45,12 +51,6 @@
 ✔️ Unito PR [#45](https://github.com/davevad93/pass-gen/pull/45) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/45)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 🔍 Esaminato PR [#45](https://github.com/davevad93/pass-gen/pull/45) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/45)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) in [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Spinto [6 commit(s)](https://github.com/davevad93/davevad93/commits) in [davevad93/davevad93](https://github.com/davevad93/davevad93)
-✔️ Unito PR [#18](https://github.com/davevad93/davevad93/pull/18) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/18)
-🔍 Esaminato PR [#18](https://github.com/davevad93/davevad93/pull/18) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/18)
-😎 Aperto PR [#18](https://github.com/davevad93/davevad93/pull/18) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/18)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) in [davevad93/davevad93](https://github.com/davevad93/davevad93)
 <!--END_SECTION:activity-->
   
   </details>
