@@ -37,6 +37,9 @@
 | Recent Activity |
 | --- |
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Merged PR [#51](https://github.com/davevad93/pass-gen/pull/51) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/51)
+🔍 Reviewed PR [#51](https://github.com/davevad93/pass-gen/pull/51) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/51)
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#50](https://github.com/davevad93/pass-gen/pull/50) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/50)
 🔍 Reviewed PR [#50](https://github.com/davevad93/pass-gen/pull/50) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/50)
@@ -48,9 +51,6 @@
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Merged PR [#33](https://github.com/davevad93/rest-countries-django-app/pull/33) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/33)
 🔍 Reviewed PR [#33](https://github.com/davevad93/rest-countries-django-app/pull/33) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/33)
-✔️ Merged PR [#45](https://github.com/davevad93/pass-gen/pull/45) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/45)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-🔍 Reviewed PR [#45](https://github.com/davevad93/pass-gen/pull/45) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/45)
 <!--END_SECTION:activity-->
   
   </details>
