@@ -95,6 +95,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/alexrosepizant">
+    <img src="https://avatars.githubusercontent.com/u/7753376" width="75px" alt="alexrosepizant" />
+    <br />
+    <sub>alexrosepizant</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/diegovalemoreno">
     <img src="https://avatars.githubusercontent.com/u/15755827" width="75px" alt="diegovalemoreno" />
     <br />
@@ -122,15 +129,15 @@
     <sub>Vidyagaddy</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/jorge-fuentes-94">
     <img src="https://avatars.githubusercontent.com/u/33938341" width="75px" alt="jorge-fuentes-94" />
     <br />
     <sub>jorge-fuentes-94</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/Ehab98">
     <img src="https://avatars.githubusercontent.com/u/35175000" width="75px" alt="Ehab98" />
     <br />
@@ -170,13 +177,6 @@
     <img src="https://avatars.githubusercontent.com/u/39686167" width="75px" alt="HenriqueRicardoFigueira" />
     <br />
     <sub>HenriqueRicardoFigueira</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/bjcresswell">
-    <img src="https://avatars.githubusercontent.com/u/42128027" width="75px" alt="bjcresswell" />
-    <br />
-    <sub>bjcresswell</sub>
   </a>
 </td>
 </tr>
