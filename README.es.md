@@ -36,6 +36,10 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Fusionado PR [#53](https://github.com/davevad93/pass-gen/pull/53) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/53)
+🔍 Revisado PR [#53](https://github.com/davevad93/pass-gen/pull/53) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/53)
+🔑 Cerrado propuesta [#16](https://github.com/davevad93/davevad93/issues/16) en [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/16)
 ❌ Cerrado PR [#52](https://github.com/davevad93/pass-gen/pull/52) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/52)
 ⬆️ Empujado [20 commit(s)](https://github.com/davevad93/languages/commits) a [davevad93/languages](https://github.com/davevad93/languages)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -47,10 +51,6 @@
 🔍 Revisado PR [#50](https://github.com/davevad93/pass-gen/pull/50) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/50)
 ✔️ Fusionado PR [#49](https://github.com/davevad93/pass-gen/pull/49) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/49)
 🔍 Revisado PR [#49](https://github.com/davevad93/pass-gen/pull/49) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/49)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#48](https://github.com/davevad93/pass-gen/pull/48) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/48)
-🔍 Revisado PR [#48](https://github.com/davevad93/pass-gen/pull/48) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/48)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 <!--END_SECTION:activity-->
   
   </details>
