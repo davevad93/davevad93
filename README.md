@@ -1,5 +1,4 @@
 <div align="center">
-<!--  <h1>mohamed elhawary</h1>
   <img src="assets/davevad93.gif" width=875>
   <hr>
   <a href="https://github.com/davevad93"><img src="https://komarev.com/ghpvc/?username=davevad93&color=brightgreen&style=for-the-badge"/><a/>
