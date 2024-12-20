@@ -36,6 +36,10 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+❌ Chiuso PR [#58](https://github.com/davevad93/pass-gen/pull/58) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/58)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Unito PR [#57](https://github.com/davevad93/pass-gen/pull/57) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/57)
+🔍 Esaminato PR [#57](https://github.com/davevad93/pass-gen/pull/57) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/57)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#54](https://github.com/davevad93/pass-gen/pull/54) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/54)
 🔍 Esaminato PR [#54](https://github.com/davevad93/pass-gen/pull/54) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/54)
@@ -46,10 +50,6 @@
 🔍 Esaminato PR [#53](https://github.com/davevad93/pass-gen/pull/53) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/53)
 🔑 Chiuso problema [#16](https://github.com/davevad93/davevad93/issues/16) in [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/16)
 ❌ Chiuso PR [#52](https://github.com/davevad93/pass-gen/pull/52) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/52)
-⬆️ Spinto [20 commit(s)](https://github.com/davevad93/languages/commits) in [davevad93/languages](https://github.com/davevad93/languages)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#51](https://github.com/davevad93/pass-gen/pull/51) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/51)
-🔍 Esaminato PR [#51](https://github.com/davevad93/pass-gen/pull/51) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/51)
 <!--END_SECTION:activity-->
   
   </details>
