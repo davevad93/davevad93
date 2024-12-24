@@ -108,6 +108,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/Dakatsuki3002">
+    <img src="https://avatars.githubusercontent.com/u/18092463" width="75px" alt="Dakatsuki3002" />
+    <br />
+    <sub>Dakatsuki3002</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/andrejmoltok">
     <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="andrejmoltok" />
     <br />
@@ -121,15 +128,15 @@
     <sub>Abimomin</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/Vidyagaddy">
     <img src="https://avatars.githubusercontent.com/u/31290797" width="75px" alt="Vidyagaddy" />
     <br />
     <sub>Vidyagaddy</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/jorge-fuentes-94">
     <img src="https://avatars.githubusercontent.com/u/33938341" width="75px" alt="jorge-fuentes-94" />
     <br />
@@ -169,13 +176,6 @@
     <img src="https://avatars.githubusercontent.com/u/38196806" width="75px" alt="fefemama585" />
     <br />
     <sub>fefemama585</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/HenriqueRicardoFigueira">
-    <img src="https://avatars.githubusercontent.com/u/39686167" width="75px" alt="HenriqueRicardoFigueira" />
-    <br />
-    <sub>HenriqueRicardoFigueira</sub>
   </a>
 </td>
 </tr>
