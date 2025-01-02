@@ -131,6 +131,13 @@
 </td>
 </tr>
 <tr><td align="center">
+  <a href="https://github.com/nishanmudalige">
+    <img src="https://avatars.githubusercontent.com/u/30182885" width="75px" alt="nishanmudalige" />
+    <br />
+    <sub>nishanmudalige</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/Vidyagaddy">
     <img src="https://avatars.githubusercontent.com/u/31290797" width="75px" alt="Vidyagaddy" />
     <br />
@@ -170,13 +177,6 @@
     <img src="https://avatars.githubusercontent.com/u/37328568" width="75px" alt="waynezo" />
     <br />
     <sub>waynezo</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/fefemama585">
-    <img src="https://avatars.githubusercontent.com/u/38196806" width="75px" alt="fefemama585" />
-    <br />
-    <sub>fefemama585</sub>
   </a>
 </td>
 </tr>
