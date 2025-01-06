@@ -22,7 +22,7 @@
 | 📁 Repository | ⭐ Stelle | 🔱 Forks |
 | --- | --- | --- |
 | [davevad93](https://github.com/davevad93/davevad93) | 27 | 16 |
-| [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 16 | 3 |
+| [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 16 | 4 |
 | [pass-gen](https://github.com/davevad93/pass-gen) | 8 | 1 |
 | [drawdb](https://github.com/davevad93/drawdb) | 7 | 0 |
 | [C-Sharp-DAM](https://github.com/davevad93/C-Sharp-DAM) | 6 | 1 |
