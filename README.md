@@ -88,6 +88,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/josemle">
+    <img src="https://avatars.githubusercontent.com/u/1214313" width="75px" alt="josemle" />
+    <br />
+    <sub>josemle</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/alexrosepizant">
     <img src="https://avatars.githubusercontent.com/u/7753376" width="75px" alt="alexrosepizant" />
     <br />
@@ -122,15 +129,15 @@
     <sub>Abimomin</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/nishanmudalige">
     <img src="https://avatars.githubusercontent.com/u/30182885" width="75px" alt="nishanmudalige" />
     <br />
     <sub>nishanmudalige</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/Vidyagaddy">
     <img src="https://avatars.githubusercontent.com/u/31290797" width="75px" alt="Vidyagaddy" />
     <br />
@@ -170,13 +177,6 @@
     <img src="https://avatars.githubusercontent.com/u/37328568" width="75px" alt="waynezo" />
     <br />
     <sub>waynezo</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/fefemama585">
-    <img src="https://avatars.githubusercontent.com/u/38196806" width="75px" alt="fefemama585" />
-    <br />
-    <sub>fefemama585</sub>
   </a>
 </td>
 </tr>
