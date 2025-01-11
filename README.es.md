@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+✔️ Fusionado PR [#65](https://github.com/davevad93/pass-gen/pull/65) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/65)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+🔍 Revisado PR [#65](https://github.com/davevad93/pass-gen/pull/65) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/65)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#63](https://github.com/davevad93/pass-gen/pull/63) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/63)
 🔍 Revisado PR [#63](https://github.com/davevad93/pass-gen/pull/63) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/63)
@@ -48,9 +51,6 @@
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#59](https://github.com/davevad93/pass-gen/pull/59) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/59)
 🔍 Revisado PR [#59](https://github.com/davevad93/pass-gen/pull/59) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/59)
-📣 Comentado en propuesta [#12](https://github.com/davevad93/davevad93/issues/12#issuecomment-2557762906) en [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/12#issuecomment-2557762906)
-🔑 Cerrado propuesta [#12](https://github.com/davevad93/davevad93/issues/12) en [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/12)
-❌ Cerrado PR [#58](https://github.com/davevad93/pass-gen/pull/58) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/58)
 <!--END_SECTION:activity-->
   
   </details>
