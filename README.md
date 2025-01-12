@@ -102,6 +102,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/rationality23">
+    <img src="https://avatars.githubusercontent.com/u/11854131" width="75px" alt="rationality23" />
+    <br />
+    <sub>rationality23</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/diegovalemoreno">
     <img src="https://avatars.githubusercontent.com/u/15755827" width="75px" alt="diegovalemoreno" />
     <br />
@@ -122,15 +129,15 @@
     <sub>andrejmoltok</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/Abimomin">
     <img src="https://avatars.githubusercontent.com/u/22491475" width="75px" alt="Abimomin" />
     <br />
     <sub>Abimomin</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/nishanmudalige">
     <img src="https://avatars.githubusercontent.com/u/30182885" width="75px" alt="nishanmudalige" />
     <br />
@@ -170,13 +177,6 @@
     <img src="https://avatars.githubusercontent.com/u/35459730" width="75px" alt="chuclocbg" />
     <br />
     <sub>chuclocbg</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/waynezo">
-    <img src="https://avatars.githubusercontent.com/u/37328568" width="75px" alt="waynezo" />
-    <br />
-    <sub>waynezo</sub>
   </a>
 </td>
 </tr>
