@@ -102,6 +102,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/thenocturnaldevgypsy">
+    <img src="https://avatars.githubusercontent.com/u/9055708" width="75px" alt="thenocturnaldevgypsy" />
+    <br />
+    <sub>thenocturnaldevgypsy</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/rationality23">
     <img src="https://avatars.githubusercontent.com/u/11854131" width="75px" alt="rationality23" />
     <br />
@@ -122,15 +129,15 @@
     <sub>Dakatsuki3002</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/andrejmoltok">
     <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="andrejmoltok" />
     <br />
     <sub>andrejmoltok</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/Abimomin">
     <img src="https://avatars.githubusercontent.com/u/22491475" width="75px" alt="Abimomin" />
     <br />
@@ -170,13 +177,6 @@
     <img src="https://avatars.githubusercontent.com/u/35430361" width="75px" alt="PreciousDeanna" />
     <br />
     <sub>PreciousDeanna</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/chuclocbg">
-    <img src="https://avatars.githubusercontent.com/u/35459730" width="75px" alt="chuclocbg" />
-    <br />
-    <sub>chuclocbg</sub>
   </a>
 </td>
 </tr>
