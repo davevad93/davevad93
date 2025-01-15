@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Merged PR [#34](https://github.com/davevad93/rest-countries-django-app/pull/34) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/34)
+🔍 Reviewed PR [#34](https://github.com/davevad93/rest-countries-django-app/pull/34) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/34)
 ✔️ Merged PR [#65](https://github.com/davevad93/pass-gen/pull/65) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/65)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 🔍 Reviewed PR [#65](https://github.com/davevad93/pass-gen/pull/65) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/65)
@@ -48,9 +51,6 @@
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#61](https://github.com/davevad93/pass-gen/pull/61) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/61)
 🔍 Reviewed PR [#61](https://github.com/davevad93/pass-gen/pull/61) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/61)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Merged PR [#59](https://github.com/davevad93/pass-gen/pull/59) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/59)
-🔍 Reviewed PR [#59](https://github.com/davevad93/pass-gen/pull/59) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/59)
 <!--END_SECTION:activity-->
   
   </details>
