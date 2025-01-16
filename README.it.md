@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+❌ Chiuso PR [#64](https://github.com/davevad93/pass-gen/pull/64) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/64)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Unito PR [#34](https://github.com/davevad93/rest-countries-django-app/pull/34) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/34)
 🔍 Esaminato PR [#34](https://github.com/davevad93/rest-countries-django-app/pull/34) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/34)
@@ -50,7 +51,6 @@
 🔍 Esaminato PR [#62](https://github.com/davevad93/pass-gen/pull/62) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/62)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#61](https://github.com/davevad93/pass-gen/pull/61) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/61)
-🔍 Esaminato PR [#61](https://github.com/davevad93/pass-gen/pull/61) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/61)
 <!--END_SECTION:activity-->
   
   </details>
