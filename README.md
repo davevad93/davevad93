@@ -131,6 +131,13 @@
 </td>
 </tr>
 <tr><td align="center">
+  <a href="https://github.com/Jahtribe3">
+    <img src="https://avatars.githubusercontent.com/u/12670065" width="75px" alt="Jahtribe3" />
+    <br />
+    <sub>Jahtribe3</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/diegovalemoreno">
     <img src="https://avatars.githubusercontent.com/u/15755827" width="75px" alt="diegovalemoreno" />
     <br />
@@ -170,13 +177,6 @@
     <img src="https://avatars.githubusercontent.com/u/31290797" width="75px" alt="Vidyagaddy" />
     <br />
     <sub>Vidyagaddy</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/jorge-fuentes-94">
-    <img src="https://avatars.githubusercontent.com/u/33938341" width="75px" alt="jorge-fuentes-94" />
-    <br />
-    <sub>jorge-fuentes-94</sub>
   </a>
 </td>
 </tr>
