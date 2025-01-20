@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#68](https://github.com/davevad93/pass-gen/pull/68) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/68)
 🔍 Reviewed PR [#68](https://github.com/davevad93/pass-gen/pull/68) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/68)
@@ -50,7 +51,6 @@
 ✔️ Merged PR [#63](https://github.com/davevad93/pass-gen/pull/63) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/63)
 🔍 Reviewed PR [#63](https://github.com/davevad93/pass-gen/pull/63) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/63)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Merged PR [#62](https://github.com/davevad93/pass-gen/pull/62) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/62)
 <!--END_SECTION:activity-->
   
   </details>
