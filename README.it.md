@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+🔱 Forkato [davevad93/DeepSeek-V3](https://github.com/davevad93/DeepSeek-V3) da [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+⭐ Aggiunto ai preferiti [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 ❌ Chiuso PR [#71](https://github.com/davevad93/pass-gen/pull/71) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/71)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#70](https://github.com/davevad93/pass-gen/pull/70) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/70)
@@ -49,8 +51,6 @@
 🔍 Esaminato PR [#68](https://github.com/davevad93/pass-gen/pull/68) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/68)
 ❌ Chiuso PR [#64](https://github.com/davevad93/pass-gen/pull/64) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/64)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-✔️ Unito PR [#34](https://github.com/davevad93/rest-countries-django-app/pull/34) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/34)
-🔍 Esaminato PR [#34](https://github.com/davevad93/rest-countries-django-app/pull/34) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/34)
 <!--END_SECTION:activity-->
   
   </details>
