@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⭐ Aggiunto ai preferiti [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)
 ⬆️ Spinto [20 commit(s)](https://github.com/davevad93/languages/commits) in [davevad93/languages](https://github.com/davevad93/languages)
 🔱 Forkato [davevad93/DeepSeek-V3](https://github.com/davevad93/DeepSeek-V3) da [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 ⭐ Aggiunto ai preferiti [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
@@ -50,7 +51,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#68](https://github.com/davevad93/pass-gen/pull/68) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/68)
 🔍 Esaminato PR [#68](https://github.com/davevad93/pass-gen/pull/68) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/68)
-❌ Chiuso PR [#64](https://github.com/davevad93/pass-gen/pull/64) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/64)
 <!--END_SECTION:activity-->
   
   </details>

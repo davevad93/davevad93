@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⭐ Starred [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)
 ⬆️ Pushed [20 commit(s)](https://github.com/davevad93/languages/commits) to [davevad93/languages](https://github.com/davevad93/languages)
 🔱 Forked [davevad93/DeepSeek-V3](https://github.com/davevad93/DeepSeek-V3) from [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
@@ -50,7 +51,6 @@
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#68](https://github.com/davevad93/pass-gen/pull/68) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/68)
 🔍 Reviewed PR [#68](https://github.com/davevad93/pass-gen/pull/68) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/68)
-❌ Closed PR [#64](https://github.com/davevad93/pass-gen/pull/64) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/64)
 <!--END_SECTION:activity-->
   
   </details>
