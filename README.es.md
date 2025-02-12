@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [16 commit(s)](https://github.com/davevad93/DeepSeek-V3/commits) a [davevad93/DeepSeek-V3](https://github.com/davevad93/DeepSeek-V3)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#72](https://github.com/davevad93/pass-gen/pull/72) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/72)
 🔍 Revisado PR [#72](https://github.com/davevad93/pass-gen/pull/72) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/72)
@@ -50,7 +51,6 @@
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#69](https://github.com/davevad93/pass-gen/pull/69) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/69)
 🔍 Revisado PR [#69](https://github.com/davevad93/pass-gen/pull/69) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/69)
-⭐ Añadido a favoritos [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 <!--END_SECTION:activity-->
   
   </details>

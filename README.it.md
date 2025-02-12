@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [16 commit(s)](https://github.com/davevad93/DeepSeek-V3/commits) in [davevad93/DeepSeek-V3](https://github.com/davevad93/DeepSeek-V3)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#72](https://github.com/davevad93/pass-gen/pull/72) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/72)
 🔍 Esaminato PR [#72](https://github.com/davevad93/pass-gen/pull/72) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/72)
@@ -50,7 +51,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#69](https://github.com/davevad93/pass-gen/pull/69) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/69)
 🔍 Esaminato PR [#69](https://github.com/davevad93/pass-gen/pull/69) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/69)
-⭐ Aggiunto ai preferiti [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 <!--END_SECTION:activity-->
   
   </details>
