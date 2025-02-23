@@ -49,7 +49,6 @@
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/DeepSeek-V3/commits) a [davevad93/DeepSeek-V3](https://github.com/davevad93/DeepSeek-V3)
 ⬆️ Empujado [14 commit(s)](https://github.com/davevad93/YuE/commits) a [davevad93/YuE](https://github.com/davevad93/YuE)
 ⬆️ Empujado [16 commit(s)](https://github.com/davevad93/DeepSeek-V3/commits) a [davevad93/DeepSeek-V3](https://github.com/davevad93/DeepSeek-V3)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 <!--END_SECTION:activity-->
   
   </details>
