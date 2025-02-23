@@ -37,6 +37,9 @@
 | Attività Recente |
 | --- |
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Unito PR [#75](https://github.com/davevad93/pass-gen/pull/75) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/75)
+😎 Aperto PR [#75](https://github.com/davevad93/pass-gen/pull/75) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/75)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#74](https://github.com/davevad93/pass-gen/pull/74) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/74)
 🔍 Esaminato PR [#74](https://github.com/davevad93/pass-gen/pull/74) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/74)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -47,10 +50,6 @@
 ⬆️ Spinto [14 commit(s)](https://github.com/davevad93/YuE/commits) in [davevad93/YuE](https://github.com/davevad93/YuE)
 ⬆️ Spinto [16 commit(s)](https://github.com/davevad93/DeepSeek-V3/commits) in [davevad93/DeepSeek-V3](https://github.com/davevad93/DeepSeek-V3)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#72](https://github.com/davevad93/pass-gen/pull/72) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/72)
-🔍 Esaminato PR [#72](https://github.com/davevad93/pass-gen/pull/72) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/72)
-⭐ Aggiunto ai preferiti [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)
-⬆️ Spinto [20 commit(s)](https://github.com/davevad93/languages/commits) in [davevad93/languages](https://github.com/davevad93/languages)
 <!--END_SECTION:activity-->
   
   </details>
