@@ -21,7 +21,7 @@
   <!--START_SECTION:top_repos-->
 | 📁 Repository | ⭐ Stars | 🔱 Forks |
 | --- | --- | --- |
-| [davevad93](https://github.com/davevad93/davevad93) | 29 | 15 |
+| [davevad93](https://github.com/davevad93/davevad93) | 30 | 15 |
 | [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 16 | 4 |
 | [pass-gen](https://github.com/davevad93/pass-gen) | 8 | 2 |
 | [drawdb](https://github.com/davevad93/drawdb) | 7 | 0 |
@@ -100,13 +100,6 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/thenocturnaldevgypsy">
-    <img src="https://avatars.githubusercontent.com/u/9055708" width="75px" alt="thenocturnaldevgypsy" />
-    <br />
-    <sub>thenocturnaldevgypsy</sub>
-  </a>
-</td>
-<td align="center">
   <a href="https://github.com/rationality23">
     <img src="https://avatars.githubusercontent.com/u/11854131" width="75px" alt="rationality23" />
     <br />
@@ -127,15 +120,15 @@
     <sub>Neelka96</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/andrejmoltok">
     <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="andrejmoltok" />
     <br />
     <sub>andrejmoltok</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/Abimomin">
     <img src="https://avatars.githubusercontent.com/u/22491475" width="75px" alt="Abimomin" />
     <br />
@@ -175,6 +168,13 @@
     <img src="https://avatars.githubusercontent.com/u/35430361" width="75px" alt="PreciousDeanna" />
     <br />
     <sub>PreciousDeanna</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/chuclocbg">
+    <img src="https://avatars.githubusercontent.com/u/35459730" width="75px" alt="chuclocbg" />
+    <br />
+    <sub>chuclocbg</sub>
   </a>
 </td>
 </tr>
