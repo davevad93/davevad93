@@ -93,13 +93,6 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/XiaomingX">
-    <img src="https://avatars.githubusercontent.com/u/5387930" width="75px" alt="XiaomingX" />
-    <br />
-    <sub>XiaomingX</sub>
-  </a>
-</td>
-<td align="center">
   <a href="https://github.com/alexrosepizant">
     <img src="https://avatars.githubusercontent.com/u/7753376" width="75px" alt="alexrosepizant" />
     <br />
@@ -127,15 +120,15 @@
     <sub>diegovalemoreno</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/Neelka96">
     <img src="https://avatars.githubusercontent.com/u/20176164" width="75px" alt="Neelka96" />
     <br />
     <sub>Neelka96</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/andrejmoltok">
     <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="andrejmoltok" />
     <br />
@@ -175,6 +168,13 @@
     <img src="https://avatars.githubusercontent.com/u/35175000" width="75px" alt="Ehab98" />
     <br />
     <sub>Ehab98</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/PreciousDeanna">
+    <img src="https://avatars.githubusercontent.com/u/35430361" width="75px" alt="PreciousDeanna" />
+    <br />
+    <sub>PreciousDeanna</sub>
   </a>
 </td>
 </tr>
