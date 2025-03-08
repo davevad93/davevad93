@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Fusionado PR [#35](https://github.com/davevad93/rest-countries-django-app/pull/35) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/35)
+😎 Abierto PR [#35](https://github.com/davevad93/rest-countries-django-app/pull/35) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/35)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#76](https://github.com/davevad93/pass-gen/pull/76) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/76)
 🔍 Revisado PR [#76](https://github.com/davevad93/pass-gen/pull/76) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/76)
@@ -44,11 +47,6 @@
 😎 Abierto PR [#75](https://github.com/davevad93/pass-gen/pull/75) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/75)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#74](https://github.com/davevad93/pass-gen/pull/74) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/74)
-🔍 Revisado PR [#74](https://github.com/davevad93/pass-gen/pull/74) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/74)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#73](https://github.com/davevad93/pass-gen/pull/73) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/73)
-🔍 Revisado PR [#73](https://github.com/davevad93/pass-gen/pull/73) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/73)
-⬆️ Empujado [9 commit(s)](https://github.com/davevad93/YuE/commits) a [davevad93/YuE](https://github.com/davevad93/YuE)
 <!--END_SECTION:activity-->
   
   </details>

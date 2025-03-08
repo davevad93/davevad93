@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Unito PR [#35](https://github.com/davevad93/rest-countries-django-app/pull/35) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/35)
+😎 Aperto PR [#35](https://github.com/davevad93/rest-countries-django-app/pull/35) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/35)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#76](https://github.com/davevad93/pass-gen/pull/76) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/76)
 🔍 Esaminato PR [#76](https://github.com/davevad93/pass-gen/pull/76) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/76)
@@ -44,11 +47,6 @@
 😎 Aperto PR [#75](https://github.com/davevad93/pass-gen/pull/75) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/75)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#74](https://github.com/davevad93/pass-gen/pull/74) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/74)
-🔍 Esaminato PR [#74](https://github.com/davevad93/pass-gen/pull/74) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/74)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#73](https://github.com/davevad93/pass-gen/pull/73) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/73)
-🔍 Esaminato PR [#73](https://github.com/davevad93/pass-gen/pull/73) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/73)
-⬆️ Spinto [9 commit(s)](https://github.com/davevad93/YuE/commits) in [davevad93/YuE](https://github.com/davevad93/YuE)
 <!--END_SECTION:activity-->
   
   </details>
