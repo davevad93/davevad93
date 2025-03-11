@@ -37,6 +37,9 @@
 | Recent Activity |
 | --- |
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Merged PR [#36](https://github.com/davevad93/rest-countries-django-app/pull/36) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/36)
+🔍 Reviewed PR [#36](https://github.com/davevad93/rest-countries-django-app/pull/36) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/36)
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Merged PR [#35](https://github.com/davevad93/rest-countries-django-app/pull/35) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/35)
 😎 Opened PR [#35](https://github.com/davevad93/rest-countries-django-app/pull/35) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/35)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -45,8 +48,6 @@
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#75](https://github.com/davevad93/pass-gen/pull/75) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/75)
 😎 Opened PR [#75](https://github.com/davevad93/pass-gen/pull/75) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/75)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Merged PR [#74](https://github.com/davevad93/pass-gen/pull/74) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/74)
 <!--END_SECTION:activity-->
   
   </details>

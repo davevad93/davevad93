@@ -37,6 +37,9 @@
 | Attività Recente |
 | --- |
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Unito PR [#36](https://github.com/davevad93/rest-countries-django-app/pull/36) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/36)
+🔍 Esaminato PR [#36](https://github.com/davevad93/rest-countries-django-app/pull/36) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/36)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Unito PR [#35](https://github.com/davevad93/rest-countries-django-app/pull/35) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/35)
 😎 Aperto PR [#35](https://github.com/davevad93/rest-countries-django-app/pull/35) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/35)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -45,8 +48,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#75](https://github.com/davevad93/pass-gen/pull/75) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/75)
 😎 Aperto PR [#75](https://github.com/davevad93/pass-gen/pull/75) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/75)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#74](https://github.com/davevad93/pass-gen/pull/74) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/74)
 <!--END_SECTION:activity-->
   
   </details>

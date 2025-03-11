@@ -37,6 +37,9 @@
 | Actividad Reciente |
 | --- |
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Fusionado PR [#36](https://github.com/davevad93/rest-countries-django-app/pull/36) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/36)
+🔍 Revisado PR [#36](https://github.com/davevad93/rest-countries-django-app/pull/36) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/36)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Fusionado PR [#35](https://github.com/davevad93/rest-countries-django-app/pull/35) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/35)
 😎 Abierto PR [#35](https://github.com/davevad93/rest-countries-django-app/pull/35) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/35)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -45,8 +48,6 @@
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#75](https://github.com/davevad93/pass-gen/pull/75) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/75)
 😎 Abierto PR [#75](https://github.com/davevad93/pass-gen/pull/75) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/75)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#74](https://github.com/davevad93/pass-gen/pull/74) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/74)
 <!--END_SECTION:activity-->
   
   </details>
