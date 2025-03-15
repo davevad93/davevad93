@@ -36,18 +36,20 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Fusionado PR [#79](https://github.com/davevad93/pass-gen/pull/79) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/79)
+🔍 Revisado PR [#79](https://github.com/davevad93/pass-gen/pull/79) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/79)
+❌ Cerrado PR [#78](https://github.com/davevad93/pass-gen/pull/78) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/78)
+🔍 Revisado PR [#77](https://github.com/davevad93/pass-gen/pull/77) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/77)
+✔️ Fusionado PR [#77](https://github.com/davevad93/pass-gen/pull/77) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/77)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+❌ Cerrado PR [#24](https://github.com/davevad93/davevad93/pull/24) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/24)
+🔍 Revisado PR [#24](https://github.com/davevad93/davevad93/pull/24) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/24)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Fusionado PR [#36](https://github.com/davevad93/rest-countries-django-app/pull/36) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/36)
 🔍 Revisado PR [#36](https://github.com/davevad93/rest-countries-django-app/pull/36) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/36)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Fusionado PR [#35](https://github.com/davevad93/rest-countries-django-app/pull/35) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/35)
-😎 Abierto PR [#35](https://github.com/davevad93/rest-countries-django-app/pull/35) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/35)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#76](https://github.com/davevad93/pass-gen/pull/76) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/76)
-🔍 Revisado PR [#76](https://github.com/davevad93/pass-gen/pull/76) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/76)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#75](https://github.com/davevad93/pass-gen/pull/75) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/75)
-😎 Abierto PR [#75](https://github.com/davevad93/pass-gen/pull/75) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/75)
 <!--END_SECTION:activity-->
   
   </details>
