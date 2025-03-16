@@ -137,6 +137,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/djvelimir">
+    <img src="https://avatars.githubusercontent.com/u/20823832" width="75px" alt="djvelimir" />
+    <br />
+    <sub>djvelimir</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/Abimomin">
     <img src="https://avatars.githubusercontent.com/u/22491475" width="75px" alt="Abimomin" />
     <br />
@@ -169,13 +176,6 @@
     <img src="https://avatars.githubusercontent.com/u/33938341" width="75px" alt="jorge-fuentes-94" />
     <br />
     <sub>jorge-fuentes-94</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/Ehab98">
-    <img src="https://avatars.githubusercontent.com/u/35175000" width="75px" alt="Ehab98" />
-    <br />
-    <sub>Ehab98</sub>
   </a>
 </td>
 </tr>
