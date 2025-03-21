@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+🔑 Cerrado propuesta [#25](https://github.com/davevad93/davevad93/issues/25) en [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/25)
+📣 Comentado en propuesta [#25](https://github.com/davevad93/davevad93/issues/25#issuecomment-2741308293) en [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/25#issuecomment-2741308293)
+🔑 Cerrado propuesta [#25](https://github.com/davevad93/davevad93/issues/25) en [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/25)
 ⬆️ Empujado [13 commit(s)](https://github.com/davevad93/YuE/commits) a [davevad93/YuE](https://github.com/davevad93/YuE)
 ⬆️ Empujado [16 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -48,8 +51,6 @@
 ❌ Cerrado PR [#24](https://github.com/davevad93/davevad93/pull/24) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/24)
 🔍 Revisado PR [#24](https://github.com/davevad93/davevad93/pull/24) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/24)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) a [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-✔️ Fusionado PR [#36](https://github.com/davevad93/rest-countries-django-app/pull/36) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/36)
-🔍 Revisado PR [#36](https://github.com/davevad93/rest-countries-django-app/pull/36) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/36)
 <!--END_SECTION:activity-->
   
   </details>

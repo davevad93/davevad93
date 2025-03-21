@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+🔑 Chiuso problema [#25](https://github.com/davevad93/davevad93/issues/25) in [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/25)
+📣 Commentato il problema [#25](https://github.com/davevad93/davevad93/issues/25#issuecomment-2741308293) in [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/25#issuecomment-2741308293)
+🔑 Chiuso problema [#25](https://github.com/davevad93/davevad93/issues/25) in [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/25)
 ⬆️ Spinto [13 commit(s)](https://github.com/davevad93/YuE/commits) in [davevad93/YuE](https://github.com/davevad93/YuE)
 ⬆️ Spinto [16 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -48,8 +51,6 @@
 ❌ Chiuso PR [#24](https://github.com/davevad93/davevad93/pull/24) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/24)
 🔍 Esaminato PR [#24](https://github.com/davevad93/davevad93/pull/24) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/24)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-✔️ Unito PR [#36](https://github.com/davevad93/rest-countries-django-app/pull/36) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/36)
-🔍 Esaminato PR [#36](https://github.com/davevad93/rest-countries-django-app/pull/36) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/36)
 <!--END_SECTION:activity-->
   
   </details>
