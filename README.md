@@ -123,14 +123,21 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/white-cat-tech">
+    <img src="https://avatars.githubusercontent.com/u/16292334" width="75px" alt="white-cat-tech" />
+    <br />
+    <sub>white-cat-tech</sub>
+  </a>
+</td>
+</tr>
+<tr><td align="center">
   <a href="https://github.com/Neelka96">
     <img src="https://avatars.githubusercontent.com/u/20176164" width="75px" alt="Neelka96" />
     <br />
     <sub>Neelka96</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/andrejmoltok">
     <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="andrejmoltok" />
     <br />
@@ -170,13 +177,6 @@
     <img src="https://avatars.githubusercontent.com/u/31290797" width="75px" alt="Vidyagaddy" />
     <br />
     <sub>Vidyagaddy</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/jorge-fuentes-94">
-    <img src="https://avatars.githubusercontent.com/u/33938341" width="75px" alt="jorge-fuentes-94" />
-    <br />
-    <sub>jorge-fuentes-94</sub>
   </a>
 </td>
 </tr>
