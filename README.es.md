@@ -36,6 +36,12 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [4 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+✔️ Fusionado PR [#26](https://github.com/davevad93/davevad93/pull/26) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/26)
+😎 Abierto PR [#26](https://github.com/davevad93/davevad93/pull/26) en [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/26)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#80](https://github.com/davevad93/pass-gen/pull/80) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/80)
 🔍 Revisado PR [#80](https://github.com/davevad93/pass-gen/pull/80) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/80)
@@ -43,14 +49,6 @@
 ⬆️ Empujado [8 commit(s)](https://github.com/davevad93/DeepSeek-V3/commits) a [davevad93/DeepSeek-V3](https://github.com/davevad93/DeepSeek-V3)
 🔑 Cerrado propuesta [#25](https://github.com/davevad93/davevad93/issues/25) en [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/25)
 📣 Comentado en propuesta [#25](https://github.com/davevad93/davevad93/issues/25#issuecomment-2741308293) en [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/25#issuecomment-2741308293)
-🔑 Cerrado propuesta [#25](https://github.com/davevad93/davevad93/issues/25) en [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/25)
-⬆️ Empujado [13 commit(s)](https://github.com/davevad93/YuE/commits) a [davevad93/YuE](https://github.com/davevad93/YuE)
-⬆️ Empujado [16 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#79](https://github.com/davevad93/pass-gen/pull/79) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/79)
-🔍 Revisado PR [#79](https://github.com/davevad93/pass-gen/pull/79) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/79)
-❌ Cerrado PR [#78](https://github.com/davevad93/pass-gen/pull/78) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/78)
-🔍 Revisado PR [#77](https://github.com/davevad93/pass-gen/pull/77) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/77)
 <!--END_SECTION:activity-->
   
   </details>
@@ -79,7 +77,109 @@
 <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Mejores+seguidores%3A" alt="Typing SVG"/></a>
 <!--START_SECTION:followers-->
-  
+<table>
+  <tr><td align="center">
+  <a href="https://github.com/wcervini">
+    <img src="https://avatars.githubusercontent.com/u/51060" width="75px" alt="wcervini" />
+    <br />
+    <sub>wcervini</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/josemle">
+    <img src="https://avatars.githubusercontent.com/u/1214313" width="75px" alt="josemle" />
+    <br />
+    <sub>josemle</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/juanpflores">
+    <img src="https://avatars.githubusercontent.com/u/6200135" width="75px" alt="juanpflores" />
+    <br />
+    <sub>juanpflores</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/alexrosepizant">
+    <img src="https://avatars.githubusercontent.com/u/7753376" width="75px" alt="alexrosepizant" />
+    <br />
+    <sub>alexrosepizant</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/rationality23">
+    <img src="https://avatars.githubusercontent.com/u/11854131" width="75px" alt="rationality23" />
+    <br />
+    <sub>rationality23</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/diegovalemoreno">
+    <img src="https://avatars.githubusercontent.com/u/15755827" width="75px" alt="diegovalemoreno" />
+    <br />
+    <sub>diegovalemoreno</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/white-cat-tech">
+    <img src="https://avatars.githubusercontent.com/u/16292334" width="75px" alt="white-cat-tech" />
+    <br />
+    <sub>white-cat-tech</sub>
+  </a>
+</td>
+</tr>
+<tr><td align="center">
+  <a href="https://github.com/Neelka96">
+    <img src="https://avatars.githubusercontent.com/u/20176164" width="75px" alt="Neelka96" />
+    <br />
+    <sub>Neelka96</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/andrejmoltok">
+    <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="andrejmoltok" />
+    <br />
+    <sub>andrejmoltok</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/djvelimir">
+    <img src="https://avatars.githubusercontent.com/u/20823832" width="75px" alt="djvelimir" />
+    <br />
+    <sub>djvelimir</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/Abimomin">
+    <img src="https://avatars.githubusercontent.com/u/22491475" width="75px" alt="Abimomin" />
+    <br />
+    <sub>Abimomin</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/riadnwu">
+    <img src="https://avatars.githubusercontent.com/u/29239672" width="75px" alt="riadnwu" />
+    <br />
+    <sub>riadnwu</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/nishanmudalige">
+    <img src="https://avatars.githubusercontent.com/u/30182885" width="75px" alt="nishanmudalige" />
+    <br />
+    <sub>nishanmudalige</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/Vidyagaddy">
+    <img src="https://avatars.githubusercontent.com/u/31290797" width="75px" alt="Vidyagaddy" />
+    <br />
+    <sub>Vidyagaddy</sub>
+  </a>
+</td>
+</tr>
+</table>
+
 <!--END_SECTION:followers-->
 
 <!--
