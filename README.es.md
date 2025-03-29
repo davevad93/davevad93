@@ -77,7 +77,7 @@
 [![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true&custom_title=Gráfico+de+actividad+de+Davide+Presti+en+GitHub)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Top+followers%3A" alt="Typing SVG"/></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Mejores+seguidores%3A" alt="Typing SVG"/></a>
 <!--START_SECTION:followers-->
   
 <!--END_SECTION:followers-->
