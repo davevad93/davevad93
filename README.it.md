@@ -23,8 +23,8 @@
 | --- | --- | --- |
 | [davevad93](https://github.com/davevad93/davevad93) | 34 | 18 |
 | [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 16 | 4 |
+| [drawdb](https://github.com/davevad93/drawdb) | 8 | 0 |
 | [pass-gen](https://github.com/davevad93/pass-gen) | 8 | 2 |
-| [drawdb](https://github.com/davevad93/drawdb) | 7 | 0 |
 | [C-Sharp-DAM](https://github.com/davevad93/C-Sharp-DAM) | 6 | 1 |
 <!--END_SECTION:top_repos-->
   
@@ -100,6 +100,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/heedongkang">
+    <img src="https://avatars.githubusercontent.com/u/6754440" width="75px" alt="heedongkang" />
+    <br />
+    <sub>heedongkang</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/alexrosepizant">
     <img src="https://avatars.githubusercontent.com/u/7753376" width="75px" alt="alexrosepizant" />
     <br />
@@ -120,15 +127,15 @@
     <sub>diegovalemoreno</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/white-cat-tech">
     <img src="https://avatars.githubusercontent.com/u/16292334" width="75px" alt="white-cat-tech" />
     <br />
     <sub>white-cat-tech</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/Neelka96">
     <img src="https://avatars.githubusercontent.com/u/20176164" width="75px" alt="Neelka96" />
     <br />
@@ -168,13 +175,6 @@
     <img src="https://avatars.githubusercontent.com/u/30182885" width="75px" alt="nishanmudalige" />
     <br />
     <sub>nishanmudalige</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/Vidyagaddy">
-    <img src="https://avatars.githubusercontent.com/u/31290797" width="75px" alt="Vidyagaddy" />
-    <br />
-    <sub>Vidyagaddy</sub>
   </a>
 </td>
 </tr>
