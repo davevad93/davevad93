@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+❌ Closed PR [#82](https://github.com/davevad93/pass-gen/pull/82) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/82)
+❌ Closed PR [#81](https://github.com/davevad93/pass-gen/pull/81) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/81)
 ⬆️ Pushed [4 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ✔️ Merged PR [#26](https://github.com/davevad93/davevad93/pull/26) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/26)
 😎 Opened PR [#26](https://github.com/davevad93/davevad93/pull/26) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/26)
@@ -47,8 +49,6 @@
 🔍 Reviewed PR [#80](https://github.com/davevad93/pass-gen/pull/80) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/80)
 ⬆️ Pushed [20 commit(s)](https://github.com/davevad93/github-readme-stats/commits) to [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⬆️ Pushed [8 commit(s)](https://github.com/davevad93/DeepSeek-V3/commits) to [davevad93/DeepSeek-V3](https://github.com/davevad93/DeepSeek-V3)
-🔑 Closed issue [#25](https://github.com/davevad93/davevad93/issues/25) in [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/25)
-📣 Commented on issue [#25](https://github.com/davevad93/davevad93/issues/25#issuecomment-2741308293) in [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/25#issuecomment-2741308293)
 <!--END_SECTION:activity-->
   
   </details>
