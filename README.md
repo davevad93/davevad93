@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
 ✔️ Merged PR [#86](https://github.com/davevad93/pass-gen/pull/86) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/86)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 🔍 Reviewed PR [#86](https://github.com/davevad93/pass-gen/pull/86) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/86)
@@ -48,7 +49,6 @@
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Merged PR [#80](https://github.com/davevad93/pass-gen/pull/80) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/80)
 <!--END_SECTION:activity-->
   
   </details>

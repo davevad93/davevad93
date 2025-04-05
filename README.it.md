@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⭐ Aggiunto ai preferiti [upscayl/upscayl](https://github.com/upscayl/upscayl)
 ✔️ Unito PR [#86](https://github.com/davevad93/pass-gen/pull/86) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/86)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 🔍 Esaminato PR [#86](https://github.com/davevad93/pass-gen/pull/86) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/86)
@@ -48,7 +49,6 @@
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) in [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) in [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#80](https://github.com/davevad93/pass-gen/pull/80) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/80)
 <!--END_SECTION:activity-->
   
   </details>
