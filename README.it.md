@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) in [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) in [davevad93/davevad93](https://github.com/davevad93/davevad93)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) in [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⭐ Aggiunto ai preferiti [upscayl/upscayl](https://github.com/upscayl/upscayl)
 ✔️ Unito PR [#86](https://github.com/davevad93/pass-gen/pull/86) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/86)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -46,9 +49,6 @@
 ✔️ Unito PR [#26](https://github.com/davevad93/davevad93/pull/26) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/26)
 😎 Aperto PR [#26](https://github.com/davevad93/davevad93/pull/26) in [davevad93/davevad93](https://github.com/davevad93/davevad93/pull/26)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) in [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) in [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) in [davevad93/davevad93](https://github.com/davevad93/davevad93)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 <!--END_SECTION:activity-->
   
   </details>
