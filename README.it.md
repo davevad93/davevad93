@@ -13,10 +13,10 @@
 
 <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Su+di+me%3A" alt="Typing SVG"/></a>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1120&height=75&lines=Ex+DJ,+ora+sviluppatore+fullstack.+Fan+dell'heavy+metal+e+di+tutta+la+musica+precedente+agli+anni+2000,+amante+della+storia.;“Chi+non+ricorda+il+passato+è+condannato+a+ripeterlo”." alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=75&lines=Ex+DJ,+attualmente+sviluppatore+fullstack.+Fan+dell'heavy+metal+e+di+tutta+la+musica+previa+agli+anni+2000,+amante+della+storia.;“Chi+non+ricorda+il+passato+è+condannato+a+ripeterlo”." alt="Typing SVG" /></a>
 
   <details>
-    <summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Repository Principali:" alt="Typing SVG" /></a></summary>
+    <summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Repository Principali:" alt="Typing SVG" /></a></summary>
     
   <!--START_SECTION:top_repos-->
 | 📁 Repository | ⭐ Stelle | 🔱 Forks |
