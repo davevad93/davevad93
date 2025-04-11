@@ -13,7 +13,7 @@
 
 <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=About+me%3A" alt="Typing SVG"/></a>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=Former+DJ,+now+fullstack+developer.+Huge+heavy+metal+and+all+pre-2000s+music+fan,+history+nerd.;“Those+who+cannot+remember+the+past+are+condemned+to+repeat+it”." alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=Former+DJ,+now+fullstack+developer.+Huge+heavy+metal+and+all+pre-2000s+music+fan,+history+nerd.;“Those+who+cannot+remember+the+past+are+condemned+to+repeat+it”." alt="Typing SVG" /></a>
 
   <details>
     <summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Top+Repositories:" alt="Typing SVG" /></a></summary>
