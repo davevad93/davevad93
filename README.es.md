@@ -13,7 +13,7 @@
 
 <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Sobre+mi%3A" alt="Typing SVG"/></a>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1180&height=75&lines=Ex+DJ,+ahora+desarrollador+fullstack.+Aficionado+al+heavy+metal+y+a+toda+la+música+anterior+a+los+años+2000,+friki+de+la+historia.;“Aquellos+que+no+pueden+recordar+el+pasado+están+condenados+a+repetirlo”." alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1280&height=75&lines=Ex+DJ,+actualmente+desarrollador+fullstack.+Amante+del+heavy+metal+y+de+toda+la+música+anterior+a+los+años+2000,+apasionado+de+la+historia.;“Aquellos+que+no+pueden+recordar+el+pasado+están+condenados+a+repetirlo”." alt="Typing SVG" /></a>
 
   <details>
     <summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Repositorios+Destacados:" alt="Typing SVG" /></a></summary>
@@ -72,7 +72,7 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-davevad93s-projects.vercel.app/?user=davevad93&&border=00FF2B&stroke=00FF2B&ring=00FF2B&fire=00FF2B&currStreakNum=00FF2B&sideNums=00FF2B&currStreakLabel=00FF2B&sideLabels=00FF2B&dates=00FF2B&theme=chartreuse-dark&locale=es" alt="davevad93" width=460 /></a>
 </div>
 
-[![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true&custom_title=Gráfico+de+actividad+de+Davide+Presti+en+GitHub)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true&custom_title=Gráfico+de+actividad+en+GitHub+de+Davide+Presti)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Mejores+seguidores%3A" alt="Typing SVG"/></a>
