@@ -36,6 +36,10 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+❌ Cerrado PR [#89](https://github.com/davevad93/pass-gen/pull/89) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/89)
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Fusionado PR [#88](https://github.com/davevad93/pass-gen/pull/88) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/88)
+🔍 Revisado PR [#88](https://github.com/davevad93/pass-gen/pull/88) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/88)
 ❌ Cerrado PR [#87](https://github.com/davevad93/pass-gen/pull/87) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/87)
 ⬆️ Empujado [9 commit(s)](https://github.com/davevad93/github-readme-stats/commits) a [davevad93/github-readme-stats](https://github.com/davevad93/github-readme-stats)
 ⬆️ Empujado [3 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
@@ -45,10 +49,6 @@
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/davevad93/commits) a [davevad93/davevad93](https://github.com/davevad93/davevad93)
 ⭐ Añadido a favoritos [upscayl/upscayl](https://github.com/upscayl/upscayl)
-✔️ Fusionado PR [#86](https://github.com/davevad93/pass-gen/pull/86) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/86)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-🔍 Revisado PR [#86](https://github.com/davevad93/pass-gen/pull/86) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/86)
-❌ Cerrado PR [#82](https://github.com/davevad93/pass-gen/pull/82) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/82)
 <!--END_SECTION:activity-->
   
   </details>
