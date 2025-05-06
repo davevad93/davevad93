@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Unito PR [#94](https://github.com/davevad93/pass-gen/pull/94) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/94)
+😎 Aperto PR [#94](https://github.com/davevad93/pass-gen/pull/94) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/94)
 ❌ Chiuso PR [#93](https://github.com/davevad93/pass-gen/pull/93) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/93)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#92](https://github.com/davevad93/pass-gen/pull/92) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/92)
@@ -47,10 +50,6 @@
 ✔️ Unito PR [#90](https://github.com/davevad93/pass-gen/pull/90) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/90)
 🔍 Esaminato PR [#90](https://github.com/davevad93/pass-gen/pull/90) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/90)
 ❌ Chiuso PR [#89](https://github.com/davevad93/pass-gen/pull/89) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/89)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#88](https://github.com/davevad93/pass-gen/pull/88) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/88)
-🔍 Esaminato PR [#88](https://github.com/davevad93/pass-gen/pull/88) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/88)
-❌ Chiuso PR [#87](https://github.com/davevad93/pass-gen/pull/87) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/87)
 <!--END_SECTION:activity-->
   
   </details>
