@@ -130,10 +130,10 @@
 </td>
 </tr>
 <tr><td align="center">
-  <a href="https://github.com/white-cat-tech">
-    <img src="https://avatars.githubusercontent.com/u/16292334" width="75px" alt="white-cat-tech" />
+  <a href="https://github.com/jhon-cruz159">
+    <img src="https://avatars.githubusercontent.com/u/16292334" width="75px" alt="jhon-cruz159" />
     <br />
-    <sub>white-cat-tech</sub>
+    <sub>jhon-cruz159</sub>
   </a>
 </td>
 <td align="center">
