@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+❌ Closed PR [#103](https://github.com/davevad93/pass-gen/pull/103) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/103)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#102](https://github.com/davevad93/pass-gen/pull/102) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/102)
 🔍 Reviewed PR [#102](https://github.com/davevad93/pass-gen/pull/102) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/102)
@@ -50,7 +51,6 @@
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#96](https://github.com/davevad93/pass-gen/pull/96) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/96)
 🔍 Reviewed PR [#96](https://github.com/davevad93/pass-gen/pull/96) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/96)
-❌ Closed PR [#95](https://github.com/davevad93/pass-gen/pull/95) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/95)
 <!--END_SECTION:activity-->
   
   </details>
