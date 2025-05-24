@@ -36,6 +36,10 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Merged PR [#104](https://github.com/davevad93/pass-gen/pull/104) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/104)
+🔍 Reviewed PR [#104](https://github.com/davevad93/pass-gen/pull/104) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/104)
+❌ Closed PR [#105](https://github.com/davevad93/pass-gen/pull/105) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/105)
 ❌ Closed PR [#103](https://github.com/davevad93/pass-gen/pull/103) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/103)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#102](https://github.com/davevad93/pass-gen/pull/102) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/102)
@@ -47,10 +51,6 @@
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#98](https://github.com/davevad93/pass-gen/pull/98) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/98)
 🔍 Reviewed PR [#98](https://github.com/davevad93/pass-gen/pull/98) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/98)
-❌ Closed PR [#97](https://github.com/davevad93/pass-gen/pull/97) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/97)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Merged PR [#96](https://github.com/davevad93/pass-gen/pull/96) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/96)
-🔍 Reviewed PR [#96](https://github.com/davevad93/pass-gen/pull/96) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/96)
 <!--END_SECTION:activity-->
   
   </details>

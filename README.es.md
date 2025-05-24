@@ -36,6 +36,10 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Fusionado PR [#104](https://github.com/davevad93/pass-gen/pull/104) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/104)
+🔍 Revisado PR [#104](https://github.com/davevad93/pass-gen/pull/104) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/104)
+❌ Cerrado PR [#105](https://github.com/davevad93/pass-gen/pull/105) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/105)
 ❌ Cerrado PR [#103](https://github.com/davevad93/pass-gen/pull/103) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/103)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#102](https://github.com/davevad93/pass-gen/pull/102) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/102)
@@ -47,10 +51,6 @@
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#98](https://github.com/davevad93/pass-gen/pull/98) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/98)
 🔍 Revisado PR [#98](https://github.com/davevad93/pass-gen/pull/98) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/98)
-❌ Cerrado PR [#97](https://github.com/davevad93/pass-gen/pull/97) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/97)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#96](https://github.com/davevad93/pass-gen/pull/96) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/96)
-🔍 Revisado PR [#96](https://github.com/davevad93/pass-gen/pull/96) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/96)
 <!--END_SECTION:activity-->
   
   </details>
