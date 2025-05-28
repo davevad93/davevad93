@@ -21,7 +21,7 @@
   <!--START_SECTION:top_repos-->
 | 📁 Repository | ⭐ Stars | 🔱 Forks |
 | --- | --- | --- |
-| [davevad93](https://github.com/davevad93/davevad93) | 42 | 19 |
+| [davevad93](https://github.com/davevad93/davevad93) | 43 | 19 |
 | [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 16 | 4 |
 | [pass-gen](https://github.com/davevad93/pass-gen) | 10 | 4 |
 | [drawdb](https://github.com/davevad93/drawdb) | 8 | 0 |
