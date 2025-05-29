@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⭐ Starred [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
 ❌ Closed PR [#106](https://github.com/davevad93/pass-gen/pull/106) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/106)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#104](https://github.com/davevad93/pass-gen/pull/104) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/104)
@@ -50,7 +51,6 @@
 ✔️ Merged PR [#100](https://github.com/davevad93/pass-gen/pull/100) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/100)
 🔍 Reviewed PR [#100](https://github.com/davevad93/pass-gen/pull/100) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/100)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Merged PR [#98](https://github.com/davevad93/pass-gen/pull/98) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/98)
 <!--END_SECTION:activity-->
   
   </details>
