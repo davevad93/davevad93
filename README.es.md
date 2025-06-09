@@ -22,7 +22,7 @@
 | 📁 Repositorio | ⭐ Estrellas | 🔱 Bifurcaciones |
 | --- | --- | --- |
 | [davevad93](https://github.com/davevad93/davevad93) | 43 | 20 |
-| [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 16 | 5 |
+| [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 16 | 6 |
 | [pass-gen](https://github.com/davevad93/pass-gen) | 10 | 5 |
 | [drawdb](https://github.com/davevad93/drawdb) | 8 | 0 |
 | [20_21_UT2-Actividades-3](https://github.com/davevad93/20_21_UT2-Actividades-3) | 6 | 0 |
