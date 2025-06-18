@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+🔱 Forkato [davevad93/jan](https://github.com/davevad93/jan) da [menloresearch/jan](https://github.com/menloresearch/jan)
+⭐ Aggiunto ai preferiti [menloresearch/jan](https://github.com/menloresearch/jan)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#109](https://github.com/davevad93/pass-gen/pull/109) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/109)
 🔍 Esaminato PR [#109](https://github.com/davevad93/pass-gen/pull/109) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/109)
@@ -49,8 +51,6 @@
 ✔️ Unito PR [#107](https://github.com/davevad93/pass-gen/pull/107) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/107)
 🔍 Esaminato PR [#107](https://github.com/davevad93/pass-gen/pull/107) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/107)
 ⭐ Aggiunto ai preferiti [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
-❌ Chiuso PR [#106](https://github.com/davevad93/pass-gen/pull/106) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/106)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 <!--END_SECTION:activity-->
   
   </details>

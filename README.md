@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+🔱 Forked [davevad93/jan](https://github.com/davevad93/jan) from [menloresearch/jan](https://github.com/menloresearch/jan)
+⭐ Starred [menloresearch/jan](https://github.com/menloresearch/jan)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#109](https://github.com/davevad93/pass-gen/pull/109) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/109)
 🔍 Reviewed PR [#109](https://github.com/davevad93/pass-gen/pull/109) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/109)
@@ -49,8 +51,6 @@
 ✔️ Merged PR [#107](https://github.com/davevad93/pass-gen/pull/107) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/107)
 🔍 Reviewed PR [#107](https://github.com/davevad93/pass-gen/pull/107) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/107)
 ⭐ Starred [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
-❌ Closed PR [#106](https://github.com/davevad93/pass-gen/pull/106) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/106)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 <!--END_SECTION:activity-->
   
   </details>
