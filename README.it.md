@@ -36,6 +36,12 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Unito PR [#111](https://github.com/davevad93/pass-gen/pull/111) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/111)
+🔍 Esaminato PR [#111](https://github.com/davevad93/pass-gen/pull/111) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/111)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
+✔️ Unito PR [#41](https://github.com/davevad93/rest-countries-django-app/pull/41) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/41)
+🔍 Esaminato PR [#41](https://github.com/davevad93/rest-countries-django-app/pull/41) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/41)
 🔱 Forkato [davevad93/jan](https://github.com/davevad93/jan) da [menloresearch/jan](https://github.com/menloresearch/jan)
 ⭐ Aggiunto ai preferiti [menloresearch/jan](https://github.com/menloresearch/jan)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
@@ -45,12 +51,6 @@
 🔍 Esaminato PR [#40](https://github.com/davevad93/rest-countries-django-app/pull/40) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/40)
 ✔️ Unito PR [#40](https://github.com/davevad93/rest-countries-django-app/pull/40) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/40)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#108](https://github.com/davevad93/pass-gen/pull/108) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/108)
-🔍 Esaminato PR [#108](https://github.com/davevad93/pass-gen/pull/108) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/108)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#107](https://github.com/davevad93/pass-gen/pull/107) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/107)
-🔍 Esaminato PR [#107](https://github.com/davevad93/pass-gen/pull/107) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/107)
-⭐ Aggiunto ai preferiti [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
 <!--END_SECTION:activity-->
   
   </details>
