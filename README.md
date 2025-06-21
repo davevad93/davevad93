@@ -102,10 +102,10 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/SsunmiKim">
-    <img src="https://avatars.githubusercontent.com/u/6754440" width="75px" alt="SsunmiKim" />
+  <a href="https://github.com/HeedongKang">
+    <img src="https://avatars.githubusercontent.com/u/6754440" width="75px" alt="HeedongKang" />
     <br />
-    <sub>SsunmiKim</sub>
+    <sub>HeedongKang</sub>
   </a>
 </td>
 <td align="center">
