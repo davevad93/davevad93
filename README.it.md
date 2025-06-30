@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [20 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
+⬆️ Spinto [20 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
+⬆️ Spinto [20 commit(s)](https://github.com/davevad93/jan/commits) in [davevad93/jan](https://github.com/davevad93/jan)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#112](https://github.com/davevad93/pass-gen/pull/112) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/112)
 🔍 Esaminato PR [#112](https://github.com/davevad93/pass-gen/pull/112) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/112)
@@ -48,9 +51,6 @@
 🔍 Esaminato PR [#41](https://github.com/davevad93/rest-countries-django-app/pull/41) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/41)
 🔱 Forkato [davevad93/jan](https://github.com/davevad93/jan) da [menloresearch/jan](https://github.com/menloresearch/jan)
 ⭐ Aggiunto ai preferiti [menloresearch/jan](https://github.com/menloresearch/jan)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#109](https://github.com/davevad93/pass-gen/pull/109) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/109)
-🔍 Esaminato PR [#109](https://github.com/davevad93/pass-gen/pull/109) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/109)
 <!--END_SECTION:activity-->
   
   </details>

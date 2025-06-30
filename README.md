@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [20 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
+⬆️ Pushed [20 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
+⬆️ Pushed [20 commit(s)](https://github.com/davevad93/jan/commits) to [davevad93/jan](https://github.com/davevad93/jan)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#112](https://github.com/davevad93/pass-gen/pull/112) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/112)
 🔍 Reviewed PR [#112](https://github.com/davevad93/pass-gen/pull/112) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/112)
@@ -48,9 +51,6 @@
 🔍 Reviewed PR [#41](https://github.com/davevad93/rest-countries-django-app/pull/41) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/41)
 🔱 Forked [davevad93/jan](https://github.com/davevad93/jan) from [menloresearch/jan](https://github.com/menloresearch/jan)
 ⭐ Starred [menloresearch/jan](https://github.com/menloresearch/jan)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Merged PR [#109](https://github.com/davevad93/pass-gen/pull/109) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/109)
-🔍 Reviewed PR [#109](https://github.com/davevad93/pass-gen/pull/109) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/109)
 <!--END_SECTION:activity-->
   
   </details>

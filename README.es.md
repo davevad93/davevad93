@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [20 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
+⬆️ Empujado [20 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
+⬆️ Empujado [20 commit(s)](https://github.com/davevad93/jan/commits) a [davevad93/jan](https://github.com/davevad93/jan)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Fusionado PR [#112](https://github.com/davevad93/pass-gen/pull/112) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/112)
 🔍 Revisado PR [#112](https://github.com/davevad93/pass-gen/pull/112) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/112)
@@ -48,9 +51,6 @@
 🔍 Revisado PR [#41](https://github.com/davevad93/rest-countries-django-app/pull/41) en [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/41)
 🔱 Bifurcado [davevad93/jan](https://github.com/davevad93/jan) de [menloresearch/jan](https://github.com/menloresearch/jan)
 ⭐ Añadido a favoritos [menloresearch/jan](https://github.com/menloresearch/jan)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#109](https://github.com/davevad93/pass-gen/pull/109) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/109)
-🔍 Revisado PR [#109](https://github.com/davevad93/pass-gen/pull/109) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/109)
 <!--END_SECTION:activity-->
   
   </details>
