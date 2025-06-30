@@ -36,6 +36,8 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+😎 Aperto PR [#520](https://github.com/drawdb-io/drawdb/pull/520) in [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/pull/520)
+⬆️ Spinto [1 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Spinto [20 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Spinto [20 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Spinto [20 commit(s)](https://github.com/davevad93/jan/commits) in [davevad93/jan](https://github.com/davevad93/jan)
@@ -49,8 +51,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
 ✔️ Unito PR [#41](https://github.com/davevad93/rest-countries-django-app/pull/41) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/41)
 🔍 Esaminato PR [#41](https://github.com/davevad93/rest-countries-django-app/pull/41) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/41)
-🔱 Forkato [davevad93/jan](https://github.com/davevad93/jan) da [menloresearch/jan](https://github.com/menloresearch/jan)
-⭐ Aggiunto ai preferiti [menloresearch/jan](https://github.com/menloresearch/jan)
 <!--END_SECTION:activity-->
   
   </details>
