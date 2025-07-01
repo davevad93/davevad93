@@ -37,6 +37,7 @@
 | Recent Activity |
 | --- |
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
 😎 Opened PR [#520](https://github.com/drawdb-io/drawdb/pull/520) in [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/pull/520)
@@ -46,7 +47,6 @@
 ⬆️ Pushed [20 commit(s)](https://github.com/davevad93/jan/commits) to [davevad93/jan](https://github.com/davevad93/jan)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#112](https://github.com/davevad93/pass-gen/pull/112) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/112)
-🔍 Reviewed PR [#112](https://github.com/davevad93/pass-gen/pull/112) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/112)
 <!--END_SECTION:activity-->
   
   </details>
