@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
+⬆️ Pushed [2 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
+⬆️ Pushed [1 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
 😎 Opened PR [#520](https://github.com/drawdb-io/drawdb/pull/520) in [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/pull/520)
 ⬆️ Pushed [1 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Pushed [20 commit(s)](https://github.com/davevad93/drawdb/commits) to [davevad93/drawdb](https://github.com/davevad93/drawdb)
@@ -46,11 +49,6 @@
 🔍 Reviewed PR [#112](https://github.com/davevad93/pass-gen/pull/112) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/112)
 ❌ Closed PR [#110](https://github.com/davevad93/pass-gen/pull/110) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/110)
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Merged PR [#111](https://github.com/davevad93/pass-gen/pull/111) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/111)
-🔍 Reviewed PR [#111](https://github.com/davevad93/pass-gen/pull/111) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/111)
-⬆️ Pushed [2 commit(s)](https://github.com/davevad93/rest-countries-django-app/commits) to [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app)
-✔️ Merged PR [#41](https://github.com/davevad93/rest-countries-django-app/pull/41) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/41)
-🔍 Reviewed PR [#41](https://github.com/davevad93/rest-countries-django-app/pull/41) in [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app/pull/41)
 <!--END_SECTION:activity-->
   
   </details>
