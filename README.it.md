@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⭐ Aggiunto ai preferiti [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
 ❌ Chiuso PR [#114](https://github.com/davevad93/pass-gen/pull/114) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/114)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
@@ -46,7 +47,6 @@
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
-😎 Aperto PR [#520](https://github.com/drawdb-io/drawdb/pull/520) in [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/pull/520)
 <!--END_SECTION:activity-->
   
   </details>
