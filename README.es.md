@@ -155,6 +155,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/nguyenhoanghai1605">
+    <img src="https://avatars.githubusercontent.com/u/21367266" width="75px" alt="nguyenhoanghai1605" />
+    <br />
+    <sub>nguyenhoanghai1605</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/Abimomin">
     <img src="https://avatars.githubusercontent.com/u/22491475" width="75px" alt="Abimomin" />
     <br />
@@ -166,13 +173,6 @@
     <img src="https://avatars.githubusercontent.com/u/29239672" width="75px" alt="riadnwu" />
     <br />
     <sub>riadnwu</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/nishanmudalige">
-    <img src="https://avatars.githubusercontent.com/u/30182885" width="75px" alt="nishanmudalige" />
-    <br />
-    <sub>nishanmudalige</sub>
   </a>
 </td>
 </tr>
