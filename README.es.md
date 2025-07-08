@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [20 commit(s)](https://github.com/davevad93/jan/commits) a [davevad93/jan](https://github.com/davevad93/jan)
 ❌ Cerrado PR [#115](https://github.com/davevad93/pass-gen/pull/115) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/115)
 ⭐ Añadido a favoritos [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
 ❌ Cerrado PR [#114](https://github.com/davevad93/pass-gen/pull/114) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/114)
@@ -47,7 +48,6 @@
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 <!--END_SECTION:activity-->
   
   </details>
