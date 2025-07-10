@@ -128,10 +128,10 @@
 </td>
 </tr>
 <tr><td align="center">
-  <a href="https://github.com/pandebono524">
-    <img src="https://avatars.githubusercontent.com/u/16292334" width="75px" alt="pandebono524" />
+  <a href="https://github.com/waterfire-source">
+    <img src="https://avatars.githubusercontent.com/u/16292334" width="75px" alt="waterfire-source" />
     <br />
-    <sub>pandebono524</sub>
+    <sub>waterfire-source</sub>
   </a>
 </td>
 <td align="center">
