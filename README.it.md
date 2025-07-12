@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+📣 Commentato il problema [#29](https://github.com/davevad93/davevad93/issues/29#issuecomment-3063964544) in [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/29#issuecomment-3063964544)
 ❌ Chiuso PR [#116](https://github.com/davevad93/pass-gen/pull/116) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/116)
 ⬆️ Spinto [20 commit(s)](https://github.com/davevad93/jan/commits) in [davevad93/jan](https://github.com/davevad93/jan)
 ❌ Chiuso PR [#115](https://github.com/davevad93/pass-gen/pull/115) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/115)
@@ -46,7 +47,6 @@
 😎 Aperto PR [#522](https://github.com/drawdb-io/drawdb/pull/522) in [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/pull/522)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ❌ Chiuso PR [#113](https://github.com/davevad93/pass-gen/pull/113) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/113)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Spinto [1 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
 <!--END_SECTION:activity-->
   
