@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Fusionado PR [#118](https://github.com/davevad93/pass-gen/pull/118) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/118)
+🔍 Revisado PR [#118](https://github.com/davevad93/pass-gen/pull/118) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/118)
 ⬆️ Empujado [20 commit(s)](https://github.com/davevad93/jan/commits) a [davevad93/jan](https://github.com/davevad93/jan)
 📣 Comentado en propuesta [#29](https://github.com/davevad93/davevad93/issues/29#issuecomment-3067053989) en [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/29#issuecomment-3067053989)
 📣 Comentado en propuesta [#29](https://github.com/davevad93/davevad93/issues/29#issuecomment-3063964544) en [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/29#issuecomment-3063964544)
@@ -47,8 +50,6 @@
 ⬆️ Empujado [2 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 😎 Abierto PR [#522](https://github.com/drawdb-io/drawdb/pull/522) en [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/pull/522)
-⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
-❌ Cerrado PR [#113](https://github.com/davevad93/pass-gen/pull/113) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/113)
 ⬆️ Empujado [1 commit(s)](https://github.com/davevad93/drawdb/commits) a [davevad93/drawdb](https://github.com/davevad93/drawdb)
 <!--END_SECTION:activity-->
   
