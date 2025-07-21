@@ -36,6 +36,9 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Unito PR [#119](https://github.com/davevad93/pass-gen/pull/119) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/119)
+🔍 Esaminato PR [#119](https://github.com/davevad93/pass-gen/pull/119) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/119)
 ⬆️ Spinto [12 commit(s)](https://github.com/davevad93/YuE/commits) in [davevad93/YuE](https://github.com/davevad93/YuE)
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#118](https://github.com/davevad93/pass-gen/pull/118) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/118)
@@ -48,9 +51,6 @@
 ❌ Chiuso PR [#115](https://github.com/davevad93/pass-gen/pull/115) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/115)
 ⭐ Aggiunto ai preferiti [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
 ❌ Chiuso PR [#114](https://github.com/davevad93/pass-gen/pull/114) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/114)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/drawdb/commits) in [davevad93/drawdb](https://github.com/davevad93/drawdb)
-😎 Aperto PR [#522](https://github.com/drawdb-io/drawdb/pull/522) in [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/pull/522)
 <!--END_SECTION:activity-->
   
   </details>
