@@ -37,6 +37,9 @@
 | Attività Recente |
 | --- |
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
+✔️ Unito PR [#120](https://github.com/davevad93/pass-gen/pull/120) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/120)
+🔍 Esaminato PR [#120](https://github.com/davevad93/pass-gen/pull/120) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/120)
+⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#119](https://github.com/davevad93/pass-gen/pull/119) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/119)
 🔍 Esaminato PR [#119](https://github.com/davevad93/pass-gen/pull/119) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/119)
 ⬆️ Spinto [12 commit(s)](https://github.com/davevad93/YuE/commits) in [davevad93/YuE](https://github.com/davevad93/YuE)
@@ -48,9 +51,6 @@
 📣 Commentato il problema [#29](https://github.com/davevad93/davevad93/issues/29#issuecomment-3063964544) in [davevad93/davevad93](https://github.com/davevad93/davevad93/issues/29#issuecomment-3063964544)
 ❌ Chiuso PR [#116](https://github.com/davevad93/pass-gen/pull/116) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/116)
 ⬆️ Spinto [20 commit(s)](https://github.com/davevad93/jan/commits) in [davevad93/jan](https://github.com/davevad93/jan)
-❌ Chiuso PR [#115](https://github.com/davevad93/pass-gen/pull/115) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/115)
-⭐ Aggiunto ai preferiti [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
-❌ Chiuso PR [#114](https://github.com/davevad93/pass-gen/pull/114) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/114)
 <!--END_SECTION:activity-->
   
   </details>
