@@ -138,6 +138,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/hanshaze">
+    <img src="https://avatars.githubusercontent.com/u/17994050" width="75px" alt="hanshaze" />
+    <br />
+    <sub>hanshaze</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/Neelka96">
     <img src="https://avatars.githubusercontent.com/u/20176164" width="75px" alt="Neelka96" />
     <br />
@@ -170,13 +177,6 @@
     <img src="https://avatars.githubusercontent.com/u/22491475" width="75px" alt="Abimomin" />
     <br />
     <sub>Abimomin</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/riadnwu">
-    <img src="https://avatars.githubusercontent.com/u/29239672" width="75px" alt="riadnwu" />
-    <br />
-    <sub>riadnwu</sub>
   </a>
 </td>
 </tr>
