@@ -95,6 +95,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/sydney-s-leigh">
+    <img src="https://avatars.githubusercontent.com/u/5788916" width="75px" alt="sydney-s-leigh" />
+    <br />
+    <sub>sydney-s-leigh</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/juanpflores">
     <img src="https://avatars.githubusercontent.com/u/6200135" width="75px" alt="juanpflores" />
     <br />
@@ -122,15 +129,15 @@
     <sub>rationality23</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/diegovalemoreno">
     <img src="https://avatars.githubusercontent.com/u/15755827" width="75px" alt="diegovalemoreno" />
     <br />
     <sub>diegovalemoreno</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/waterfire-source">
     <img src="https://avatars.githubusercontent.com/u/16292334" width="75px" alt="waterfire-source" />
     <br />
@@ -170,13 +177,6 @@
     <img src="https://avatars.githubusercontent.com/u/22491475" width="75px" alt="Abimomin" />
     <br />
     <sub>Abimomin</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/riadnwu">
-    <img src="https://avatars.githubusercontent.com/u/29239672" width="75px" alt="riadnwu" />
-    <br />
-    <sub>riadnwu</sub>
   </a>
 </td>
 </tr>
