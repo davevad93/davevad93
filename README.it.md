@@ -48,9 +48,6 @@
 ✔️ Unito PR [#122](https://github.com/davevad93/pass-gen/pull/122) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/122)
 🔍 Esaminato PR [#122](https://github.com/davevad93/pass-gen/pull/122) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/122)
 ❌ Chiuso PR [#121](https://github.com/davevad93/pass-gen/pull/121) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/121)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#120](https://github.com/davevad93/pass-gen/pull/120) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/120)
-🔍 Esaminato PR [#120](https://github.com/davevad93/pass-gen/pull/120) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/120)
 <!--END_SECTION:activity-->
   
   </details>
