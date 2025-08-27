@@ -95,6 +95,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/scottluskcis">
+    <img src="https://avatars.githubusercontent.com/u/2342987" width="75px" alt="scottluskcis" />
+    <br />
+    <sub>scottluskcis</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/sydney-s-leigh">
     <img src="https://avatars.githubusercontent.com/u/5788916" width="75px" alt="sydney-s-leigh" />
     <br />
@@ -122,15 +129,15 @@
     <sub>alexrosepizant</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/rationality23">
     <img src="https://avatars.githubusercontent.com/u/11854131" width="75px" alt="rationality23" />
     <br />
     <sub>rationality23</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/diegovalemoreno">
     <img src="https://avatars.githubusercontent.com/u/15755827" width="75px" alt="diegovalemoreno" />
     <br />
@@ -170,13 +177,6 @@
     <img src="https://avatars.githubusercontent.com/u/20823832" width="75px" alt="djvelimir" />
     <br />
     <sub>djvelimir</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/nguyenhoanghai1605">
-    <img src="https://avatars.githubusercontent.com/u/21367266" width="75px" alt="nguyenhoanghai1605" />
-    <br />
-    <sub>nguyenhoanghai1605</sub>
   </a>
 </td>
 </tr>
