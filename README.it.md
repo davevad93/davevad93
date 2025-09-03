@@ -48,7 +48,6 @@
 ⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Unito PR [#126](https://github.com/davevad93/pass-gen/pull/126) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/126)
 🔍 Esaminato PR [#126](https://github.com/davevad93/pass-gen/pull/126) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/126)
-⬆️ Spinto [1 commit(s)](https://github.com/davevad93/davevad93/commits) in [davevad93/davevad93](https://github.com/davevad93/davevad93)
 <!--END_SECTION:activity-->
   
   </details>

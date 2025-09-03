@@ -48,7 +48,6 @@
 ⬆️ Pushed [2 commit(s)](https://github.com/davevad93/pass-gen/commits) to [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
 ✔️ Merged PR [#126](https://github.com/davevad93/pass-gen/pull/126) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/126)
 🔍 Reviewed PR [#126](https://github.com/davevad93/pass-gen/pull/126) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/126)
-⬆️ Pushed [1 commit(s)](https://github.com/davevad93/davevad93/commits) to [davevad93/davevad93](https://github.com/davevad93/davevad93)
 <!--END_SECTION:activity-->
   
   </details>
