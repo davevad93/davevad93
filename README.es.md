@@ -167,10 +167,10 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/djvelimir">
-    <img src="https://avatars.githubusercontent.com/u/20823832" width="75px" alt="djvelimir" />
+  <a href="https://github.com/AmirAbdollahi">
+    <img src="https://avatars.githubusercontent.com/u/20721114" width="75px" alt="AmirAbdollahi" />
     <br />
-    <sub>djvelimir</sub>
+    <sub>AmirAbdollahi</sub>
   </a>
 </td>
 </tr>
