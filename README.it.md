@@ -45,7 +45,6 @@
 🔍 Esaminato PR [#131](https://github.com/davevad93/pass-gen/pull/131) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/131)
 ❌ Chiuso PR [#130](https://github.com/davevad93/pass-gen/pull/130) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/130)
 ❌ Chiuso PR [#129](https://github.com/davevad93/pass-gen/pull/129) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/129)
-❌ Chiuso PR [#127](https://github.com/davevad93/pass-gen/pull/127) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/127)
 <!--END_SECTION:activity-->
   
   </details>
