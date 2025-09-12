@@ -146,13 +146,6 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/hanshaze">
-    <img src="https://avatars.githubusercontent.com/u/17994050" width="75px" alt="hanshaze" />
-    <br />
-    <sub>hanshaze</sub>
-  </a>
-</td>
-<td align="center">
   <a href="https://github.com/Neelka96">
     <img src="https://avatars.githubusercontent.com/u/20176164" width="75px" alt="Neelka96" />
     <br />
@@ -171,6 +164,13 @@
     <img src="https://avatars.githubusercontent.com/u/20721114" width="75px" alt="AmirAbdollahi" />
     <br />
     <sub>AmirAbdollahi</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/djvelimir">
+    <img src="https://avatars.githubusercontent.com/u/20823832" width="75px" alt="djvelimir" />
+    <br />
+    <sub>djvelimir</sub>
   </a>
 </td>
 </tr>
