@@ -44,7 +44,6 @@
 ✔️ Merged PR [#131](https://github.com/davevad93/pass-gen/pull/131) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/131)
 🔍 Reviewed PR [#131](https://github.com/davevad93/pass-gen/pull/131) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/131)
 ❌ Closed PR [#130](https://github.com/davevad93/pass-gen/pull/130) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/130)
-❌ Closed PR [#129](https://github.com/davevad93/pass-gen/pull/129) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/129)
 <!--END_SECTION:activity-->
   
   </details>
