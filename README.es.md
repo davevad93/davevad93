@@ -119,6 +119,13 @@
 </td>
 </tr>
 <tr><td align="center">
+  <a href="https://github.com/admariner">
+    <img src="https://avatars.githubusercontent.com/u/8210250" width="75px" alt="admariner" />
+    <br />
+    <sub>admariner</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/rationality23">
     <img src="https://avatars.githubusercontent.com/u/11854131" width="75px" alt="rationality23" />
     <br />
@@ -158,13 +165,6 @@
     <img src="https://avatars.githubusercontent.com/u/20721114" width="75px" alt="AmirAbdollahi" />
     <br />
     <sub>AmirAbdollahi</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/djvelimir">
-    <img src="https://avatars.githubusercontent.com/u/20823832" width="75px" alt="djvelimir" />
-    <br />
-    <sub>djvelimir</sub>
   </a>
 </td>
 </tr>
