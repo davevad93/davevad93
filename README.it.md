@@ -43,7 +43,6 @@
 ✔️ Unito PR [#141](https://github.com/davevad93/pass-gen/pull/141) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/141)
 🔍 Esaminato PR [#141](https://github.com/davevad93/pass-gen/pull/141) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/141)
 ❌ Chiuso PR [#139](https://github.com/davevad93/pass-gen/pull/139) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/139)
-❌ Chiuso PR [#138](https://github.com/davevad93/pass-gen/pull/138) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/138)
 <!--END_SECTION:activity-->
   
   </details>
