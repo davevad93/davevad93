@@ -165,10 +165,10 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/andrejmoltok">
-    <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="andrejmoltok" />
+  <a href="https://github.com/arsekil">
+    <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="arsekil" />
     <br />
-    <sub>andrejmoltok</sub>
+    <sub>arsekil</sub>
   </a>
 </td>
 </tr>
