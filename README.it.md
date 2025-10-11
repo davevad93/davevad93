@@ -87,6 +87,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/trinhminhtriet">
+    <img src="https://avatars.githubusercontent.com/u/1650997" width="75px" alt="trinhminhtriet" />
+    <br />
+    <sub>trinhminhtriet</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/scottluskcis">
     <img src="https://avatars.githubusercontent.com/u/2342987" width="75px" alt="scottluskcis" />
     <br />
@@ -114,15 +121,15 @@
     <sub>HeedongKang</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/alexrosepizant">
     <img src="https://avatars.githubusercontent.com/u/7753376" width="75px" alt="alexrosepizant" />
     <br />
     <sub>alexrosepizant</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/admariner">
     <img src="https://avatars.githubusercontent.com/u/8210250" width="75px" alt="admariner" />
     <br />
@@ -162,13 +169,6 @@
     <img src="https://avatars.githubusercontent.com/u/20176164" width="75px" alt="Neelka96" />
     <br />
     <sub>Neelka96</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/arsekil">
-    <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="arsekil" />
-    <br />
-    <sub>arsekil</sub>
   </a>
 </td>
 </tr>
