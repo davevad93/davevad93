@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+❌ Cerrado PR [#146](https://github.com/davevad93/pass-gen/pull/146) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/146)
 ❌ Cerrado PR [#145](https://github.com/davevad93/pass-gen/pull/145) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/145)
 ❌ Cerrado PR [#144](https://github.com/davevad93/pass-gen/pull/144) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/144)
 ❌ Cerrado PR [#143](https://github.com/davevad93/pass-gen/pull/143) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/143)
