@@ -21,9 +21,9 @@
   <!--START_SECTION:top_repos-->
 | 📁 Repositorio | ⭐ Estrellas | 🔱 Bifurcaciones |
 | --- | --- | --- |
-| [davevad93](https://github.com/davevad93/davevad93) | 51 | 29 |
+| [davevad93](https://github.com/davevad93/davevad93) | 52 | 28 |
 | [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 18 | 7 |
-| [pass-gen](https://github.com/davevad93/pass-gen) | 13 | 8 |
+| [pass-gen](https://github.com/davevad93/pass-gen) | 14 | 9 |
 | [drawdb](https://github.com/davevad93/drawdb) | 10 | 0 |
 | [20_21_UT2-Actividades-3](https://github.com/davevad93/20_21_UT2-Actividades-3) | 8 | 0 |
 <!--END_SECTION:top_repos-->
@@ -36,15 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
-❌ Cerrado PR [#146](https://github.com/davevad93/pass-gen/pull/146) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/146)
-❌ Cerrado PR [#145](https://github.com/davevad93/pass-gen/pull/145) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/145)
-❌ Cerrado PR [#144](https://github.com/davevad93/pass-gen/pull/144) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/144)
-❌ Cerrado PR [#143](https://github.com/davevad93/pass-gen/pull/143) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/143)
-❌ Cerrado PR [#142](https://github.com/davevad93/pass-gen/pull/142) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/142)
-⬆️ Empujado [2 commit(s)](https://github.com/davevad93/pass-gen/commits) a [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Fusionado PR [#141](https://github.com/davevad93/pass-gen/pull/141) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/141)
-🔍 Revisado PR [#141](https://github.com/davevad93/pass-gen/pull/141) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/141)
-❌ Cerrado PR [#139](https://github.com/davevad93/pass-gen/pull/139) en [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/139)
+
 <!--END_SECTION:activity-->
   
   </details>

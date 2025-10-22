@@ -21,9 +21,9 @@
   <!--START_SECTION:top_repos-->
 | 📁 Repository | ⭐ Stelle | 🔱 Forks |
 | --- | --- | --- |
-| [davevad93](https://github.com/davevad93/davevad93) | 51 | 29 |
+| [davevad93](https://github.com/davevad93/davevad93) | 52 | 28 |
 | [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 18 | 7 |
-| [pass-gen](https://github.com/davevad93/pass-gen) | 13 | 8 |
+| [pass-gen](https://github.com/davevad93/pass-gen) | 14 | 9 |
 | [drawdb](https://github.com/davevad93/drawdb) | 10 | 0 |
 | [20_21_UT2-Actividades-3](https://github.com/davevad93/20_21_UT2-Actividades-3) | 8 | 0 |
 <!--END_SECTION:top_repos-->
@@ -36,15 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
-❌ Chiuso PR [#146](https://github.com/davevad93/pass-gen/pull/146) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/146)
-❌ Chiuso PR [#145](https://github.com/davevad93/pass-gen/pull/145) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/145)
-❌ Chiuso PR [#144](https://github.com/davevad93/pass-gen/pull/144) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/144)
-❌ Chiuso PR [#143](https://github.com/davevad93/pass-gen/pull/143) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/143)
-❌ Chiuso PR [#142](https://github.com/davevad93/pass-gen/pull/142) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/142)
-⬆️ Spinto [2 commit(s)](https://github.com/davevad93/pass-gen/commits) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen)
-✔️ Unito PR [#141](https://github.com/davevad93/pass-gen/pull/141) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/141)
-🔍 Esaminato PR [#141](https://github.com/davevad93/pass-gen/pull/141) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/141)
-❌ Chiuso PR [#139](https://github.com/davevad93/pass-gen/pull/139) in [davevad93/pass-gen](https://github.com/davevad93/pass-gen/pull/139)
+
 <!--END_SECTION:activity-->
   
   </details>
