@@ -21,9 +21,9 @@
   <!--START_SECTION:top_repos-->
 | 📁 Repository | ⭐ Stars | 🔱 Forks |
 | --- | --- | --- |
-| [davevad93](https://github.com/davevad93/davevad93) | 52 | 28 |
+| [davevad93](https://github.com/davevad93/davevad93) | 54 | 29 |
 | [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 18 | 7 |
-| [pass-gen](https://github.com/davevad93/pass-gen) | 14 | 9 |
+| [pass-gen](https://github.com/davevad93/pass-gen) | 15 | 9 |
 | [drawdb](https://github.com/davevad93/drawdb) | 10 | 0 |
 | [20_21_UT2-Actividades-3](https://github.com/davevad93/20_21_UT2-Actividades-3) | 8 | 0 |
 <!--END_SECTION:top_repos-->
@@ -36,7 +36,21 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
-
+❌ Closed PR [#155]() in [davevad93/pass-gen]()
+❌ Closed PR [#154]() in [davevad93/pass-gen]()
+❌ Closed PR [#153]() in [davevad93/pass-gen]()
+❌ Closed PR [#151]() in [davevad93/pass-gen]()
+❌ Closed PR [#150]() in [davevad93/pass-gen]()
+❌ Closed PR [#149]() in [davevad93/pass-gen]()
+😎 Opened PR [#149]() in [davevad93/pass-gen]()
+⭐ Starred [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
+❌ Closed PR [#148]() in [davevad93/pass-gen]()
+❌ Closed PR [#147]() in [davevad93/pass-gen]()
+❌ Closed PR [#146]() in [davevad93/pass-gen]()
+❌ Closed PR [#145]() in [davevad93/pass-gen]()
+❌ Closed PR [#144]() in [davevad93/pass-gen]()
+❌ Closed PR [#143]() in [davevad93/pass-gen]()
+❌ Closed PR [#142]() in [davevad93/pass-gen]()
 <!--END_SECTION:activity-->
   
   </details>
@@ -81,13 +95,6 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/trinhminhtriet">
-    <img src="https://avatars.githubusercontent.com/u/1650997" width="75px" alt="trinhminhtriet" />
-    <br />
-    <sub>trinhminhtriet</sub>
-  </a>
-</td>
-<td align="center">
   <a href="https://github.com/scottluskcis">
     <img src="https://avatars.githubusercontent.com/u/2342987" width="75px" alt="scottluskcis" />
     <br />
@@ -115,15 +122,15 @@
     <sub>HeedongKang</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/alexrosepizant">
     <img src="https://avatars.githubusercontent.com/u/7753376" width="75px" alt="alexrosepizant" />
     <br />
     <sub>alexrosepizant</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/admariner">
     <img src="https://avatars.githubusercontent.com/u/8210250" width="75px" alt="admariner" />
     <br />
@@ -163,6 +170,13 @@
     <img src="https://avatars.githubusercontent.com/u/20176164" width="75px" alt="Neelka96" />
     <br />
     <sub>Neelka96</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/arsekil">
+    <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="arsekil" />
+    <br />
+    <sub>arsekil</sub>
   </a>
 </td>
 </tr>
