@@ -48,9 +48,6 @@
 ❌ Chiuso PR [#147]() in [davevad93/pass-gen]()
 ❌ Chiuso PR [#146]() in [davevad93/pass-gen]()
 ❌ Chiuso PR [#145]() in [davevad93/pass-gen]()
-❌ Chiuso PR [#144]() in [davevad93/pass-gen]()
-❌ Chiuso PR [#143]() in [davevad93/pass-gen]()
-❌ Chiuso PR [#142]() in [davevad93/pass-gen]()
 <!--END_SECTION:activity-->
   
   </details>
