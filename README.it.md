@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+❌ Chiuso PR [#43]() in [davevad93/rest-countries-django-app]()
 ❌ Chiuso PR [#155]() in [davevad93/pass-gen]()
 ❌ Chiuso PR [#154]() in [davevad93/pass-gen]()
 ❌ Chiuso PR [#153]() in [davevad93/pass-gen]()

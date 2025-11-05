@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+❌ Closed PR [#43]() in [davevad93/rest-countries-django-app]()
 ❌ Closed PR [#155]() in [davevad93/pass-gen]()
 ❌ Closed PR [#154]() in [davevad93/pass-gen]()
 ❌ Closed PR [#153]() in [davevad93/pass-gen]()
