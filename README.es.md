@@ -21,9 +21,9 @@
   <!--START_SECTION:top_repos-->
 | 📁 Repositorio | ⭐ Estrellas | 🔱 Bifurcaciones |
 | --- | --- | --- |
-| [davevad93](https://github.com/davevad93/davevad93) | 55 | 30 |
-| [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 19 | 7 |
-| [pass-gen](https://github.com/davevad93/pass-gen) | 16 | 9 |
+| [davevad93](https://github.com/davevad93/davevad93) | 58 | 32 |
+| [rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | 22 | 8 |
+| [pass-gen](https://github.com/davevad93/pass-gen) | 15 | 9 |
 | [drawdb](https://github.com/davevad93/drawdb) | 11 | 0 |
 | [20_21_UT2-Actividades-3](https://github.com/davevad93/20_21_UT2-Actividades-3) | 8 | 0 |
 <!--END_SECTION:top_repos-->
@@ -36,19 +36,17 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
-❌ Cerrado PR [#43]() en [davevad93/rest-countries-django-app]()
-❌ Cerrado PR [#155]() en [davevad93/pass-gen]()
-❌ Cerrado PR [#154]() en [davevad93/pass-gen]()
-❌ Cerrado PR [#153]() en [davevad93/pass-gen]()
-❌ Cerrado PR [#151]() en [davevad93/pass-gen]()
-❌ Cerrado PR [#150]() en [davevad93/pass-gen]()
-❌ Cerrado PR [#149]() en [davevad93/pass-gen]()
-😎 Abierto PR [#149]() en [davevad93/pass-gen]()
-⭐ Añadido a favoritos [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
-❌ Cerrado PR [#148]() en [davevad93/pass-gen]()
-❌ Cerrado PR [#147]() en [davevad93/pass-gen]()
-❌ Cerrado PR [#146]() en [davevad93/pass-gen]()
-❌ Cerrado PR [#145]() en [davevad93/pass-gen]()
+🔍 Revisado PR [#39]() en [davevad93/davevad93]()
+🔍 Revisado PR [#179]() en [davevad93/pass-gen]()
+❌ Cerrado PR [#178]() en [davevad93/pass-gen]()
+❌ Cerrado PR [#177]() en [davevad93/pass-gen]()
+⭐ Añadido a favoritos [ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)
+🔍 Revisado PR [#176]() en [davevad93/pass-gen]()
+❌ Cerrado PR [#175]() en [davevad93/pass-gen]()
+❌ Cerrado PR [#174]() en [davevad93/pass-gen]()
+❌ Cerrado PR [#173]() en [davevad93/pass-gen]()
+❌ Cerrado PR [#172]() en [davevad93/pass-gen]()
+❌ Cerrado PR [#171]() en [davevad93/pass-gen]()
 <!--END_SECTION:activity-->
   
   </details>
@@ -86,6 +84,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/clsource">
+    <img src="https://avatars.githubusercontent.com/u/292738" width="75px" alt="clsource" />
+    <br />
+    <sub>clsource</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/hoodiehacker0203">
     <img src="https://avatars.githubusercontent.com/u/1214313" width="75px" alt="hoodiehacker0203" />
     <br />
@@ -120,15 +125,15 @@
     <sub>HeedongKang</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/alexrosepizant">
     <img src="https://avatars.githubusercontent.com/u/7753376" width="75px" alt="alexrosepizant" />
     <br />
     <sub>alexrosepizant</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/admariner">
     <img src="https://avatars.githubusercontent.com/u/8210250" width="75px" alt="admariner" />
     <br />
@@ -168,13 +173,6 @@
     <img src="https://avatars.githubusercontent.com/u/20176164" width="75px" alt="Neelka96" />
     <br />
     <sub>Neelka96</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/arsekil">
-    <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="arsekil" />
-    <br />
-    <sub>arsekil</sub>
   </a>
 </td>
 </tr>
