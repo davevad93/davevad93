@@ -29,8 +29,14 @@ def fetch_recent_activities(client, username, language, translations, limit = 15
       comment_url = event.payload.comment.html_url
       translations[language][:commented] % { number: "[##{event.payload.issue.number}](#{comment_url})", repo_name: event.repo.name, url: comment_url }
     when "PushEvent"
-      commit_url = "#{repo_url}/commits"
-      translations[language][:pushed] % { commits: "[#{event.payload.commits.size} commit(s)](#{commit_url})", repo_name: event.repo.name, url: repo_url }
+      # Handle cases where commits might be nil or empty
+      commits = event.payload.commits
+      if commits && commits.any?
+        commit_url = "#{repo_url}/commits"
+        translations[language][:pushed] % { commits: "[#{commits.size} commit(s)](#{commit_url})", repo_name: event.repo.name, url: repo_url }
+      else
+        nil
+      end
     when "CreateEvent"
       if event.payload.ref_type == "repository"
         translations[language][:created_repo] % { repo_name: event.repo.name, url: repo_url }
