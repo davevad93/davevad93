@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
+🔍 Reviewed PR [#180]() in [davevad93/pass-gen]()
 🔍 Reviewed PR [#39]() in [davevad93/davevad93]()
 🔍 Reviewed PR [#179]() in [davevad93/pass-gen]()
 ❌ Closed PR [#178]() in [davevad93/pass-gen]()
@@ -46,7 +47,6 @@
 ❌ Closed PR [#174]() in [davevad93/pass-gen]()
 ❌ Closed PR [#173]() in [davevad93/pass-gen]()
 ❌ Closed PR [#172]() in [davevad93/pass-gen]()
-❌ Closed PR [#171]() in [davevad93/pass-gen]()
 <!--END_SECTION:activity-->
   
   </details>

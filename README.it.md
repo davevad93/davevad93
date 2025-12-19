@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Attività Recente |
 | --- |
+🔍 Esaminato PR [#180]() in [davevad93/pass-gen]()
 🔍 Esaminato PR [#39]() in [davevad93/davevad93]()
 🔍 Esaminato PR [#179]() in [davevad93/pass-gen]()
 ❌ Chiuso PR [#178]() in [davevad93/pass-gen]()
@@ -46,7 +47,6 @@
 ❌ Chiuso PR [#174]() in [davevad93/pass-gen]()
 ❌ Chiuso PR [#173]() in [davevad93/pass-gen]()
 ❌ Chiuso PR [#172]() in [davevad93/pass-gen]()
-❌ Chiuso PR [#171]() in [davevad93/pass-gen]()
 <!--END_SECTION:activity-->
   
   </details>

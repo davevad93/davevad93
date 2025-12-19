@@ -36,6 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
+🔍 Revisado PR [#180]() en [davevad93/pass-gen]()
 🔍 Revisado PR [#39]() en [davevad93/davevad93]()
 🔍 Revisado PR [#179]() en [davevad93/pass-gen]()
 ❌ Cerrado PR [#178]() en [davevad93/pass-gen]()
@@ -46,7 +47,6 @@
 ❌ Cerrado PR [#174]() en [davevad93/pass-gen]()
 ❌ Cerrado PR [#173]() en [davevad93/pass-gen]()
 ❌ Cerrado PR [#172]() en [davevad93/pass-gen]()
-❌ Cerrado PR [#171]() en [davevad93/pass-gen]()
 <!--END_SECTION:activity-->
   
   </details>
