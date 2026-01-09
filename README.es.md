@@ -46,7 +46,6 @@
 ❌ Cerrado PR [#175]() en [davevad93/pass-gen]()
 ❌ Cerrado PR [#174]() en [davevad93/pass-gen]()
 ❌ Cerrado PR [#173]() en [davevad93/pass-gen]()
-❌ Cerrado PR [#172]() en [davevad93/pass-gen]()
 <!--END_SECTION:activity-->
   
   </details>
