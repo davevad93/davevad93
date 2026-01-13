@@ -41,7 +41,6 @@
 🔍 Esaminato PR [#179]() in [davevad93/pass-gen]()
 ❌ Chiuso PR [#178]() in [davevad93/pass-gen]()
 ❌ Chiuso PR [#177]() in [davevad93/pass-gen]()
-⭐ Aggiunto ai preferiti [ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)
 <!--END_SECTION:activity-->
   
   </details>
