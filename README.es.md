@@ -38,8 +38,6 @@
 | --- |
 🔍 Revisado PR [#180]() en [davevad93/pass-gen]()
 🔍 Revisado PR [#39]() en [davevad93/davevad93]()
-🔍 Revisado PR [#179]() en [davevad93/pass-gen]()
-❌ Cerrado PR [#178]() en [davevad93/pass-gen]()
 <!--END_SECTION:activity-->
   
   </details>
