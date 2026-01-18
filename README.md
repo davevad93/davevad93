@@ -37,7 +37,6 @@
 | Recent Activity |
 | --- |
 🔍 Reviewed PR [#180]() in [davevad93/pass-gen]()
-🔍 Reviewed PR [#39]() in [davevad93/davevad93]()
 <!--END_SECTION:activity-->
   
   </details>

@@ -37,7 +37,6 @@
 | Attività Recente |
 | --- |
 🔍 Esaminato PR [#180]() in [davevad93/pass-gen]()
-🔍 Esaminato PR [#39]() in [davevad93/davevad93]()
 <!--END_SECTION:activity-->
   
   </details>
