@@ -36,7 +36,7 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
-🔍 Revisado PR [#180]() en [davevad93/pass-gen]()
+
 <!--END_SECTION:activity-->
   
   </details>
