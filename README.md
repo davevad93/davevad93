@@ -145,10 +145,10 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/waterfire-source">
-    <img src="https://avatars.githubusercontent.com/u/16292334" width="75px" alt="waterfire-source" />
+  <a href="https://github.com/chess-king-dot">
+    <img src="https://avatars.githubusercontent.com/u/16292334" width="75px" alt="chess-king-dot" />
     <br />
-    <sub>waterfire-source</sub>
+    <sub>chess-king-dot</sub>
   </a>
 </td>
 <td align="center">
