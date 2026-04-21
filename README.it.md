@@ -152,17 +152,17 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/hanshaze">
-    <img src="https://avatars.githubusercontent.com/u/17994050" width="75px" alt="hanshaze" />
-    <br />
-    <sub>hanshaze</sub>
-  </a>
-</td>
-<td align="center">
   <a href="https://github.com/Neelka96">
     <img src="https://avatars.githubusercontent.com/u/20176164" width="75px" alt="Neelka96" />
     <br />
     <sub>Neelka96</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/arsekil">
+    <img src="https://avatars.githubusercontent.com/u/20362038" width="75px" alt="arsekil" />
+    <br />
+    <sub>arsekil</sub>
   </a>
 </td>
 </tr>
