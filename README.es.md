@@ -36,7 +36,8 @@
   <!--START_SECTION:activity-->
 | Actividad Reciente |
 | --- |
-
+🔍 Revisado PR [#47]() en [davevad93/rest-countries-django-app]()
+🔍 Revisado PR [#46]() en [davevad93/rest-countries-django-app]()
 <!--END_SECTION:activity-->
   
   </details>
