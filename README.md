@@ -36,7 +36,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
-🔍 Reviewed PR [#51]() in [davevad93/rest-countries-django-app]()
+
 <!--END_SECTION:activity-->
   
   </details>
